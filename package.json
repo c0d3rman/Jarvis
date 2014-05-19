@@ -1,10 +1,18 @@
 {
-  "name": "hello-world",
-  "description": "hello world test app",
-  "version": "0.0.1",
+  "name": "jarvis-server",
+  "description": "A server to run jarvispa.info",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "coffeekup": "^0.3.1",
-    "express": "^4.1.1"
+    "coffee-middleware": "^0.2.1",
+    "coffeecup": "^0.3.21",
+    "connect-assets": "^3.0.1",
+    "express": "^4.1.1",
+    "morgan": "^1.0.1",
+    "serve-static": "^1.1.0"
+  },
+  "scripts": {
+    "start": "nohup node server.js >> /var/log/node.log 2>&1 &",
+    "stop": "pgrep node | xargs --no-run-if-empty kill"
   }
 }
