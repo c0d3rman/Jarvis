@@ -1,0 +1,1637 @@
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35mserver.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [36m304 [90m130ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /css/main.css [36m304 [90m2ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /js/jarvis.js [36m304 [90m133ms[0m
+[90mGET /js/script.js [36m304 [90m23ms[0m
+[90mGET /js/speech.js [36m304 [90m32ms[0m
+[0;45m    hotnode [m [0;35mNew file: include/settings.coffee[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35minclude/settings.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+[0;31m/home/web/include/settings.coffee:2:52: error: unexpected em
+	span id: "settings", class: "fa-cog", font-size: 3em
+                                                   ^^
+[m
+[0;45m    hotnode [m [0;35mwebroot/index.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+[0;31m/home/web/include/settings.coffee:2:52: error: unexpected em
+	span id: "settings", class: "fa-cog", font-size: 3em
+                                                   ^^
+[m
+[0;45m    hotnode [m [0;35minclude/settings.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m102ms - 2.49kb[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m1ms[0m
+[90mGET /css/settings.css [32m200 [90m4ms - 126b[0m
+[90mGET /lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/jarvis.js [36m304 [90m127ms[0m
+[90mGET /js/script.js [36m304 [90m25ms[0m
+[90mGET /js/speech.js [36m304 [90m34ms[0m
+[90mGET /resources/images/favicon.png [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35minclude/settings.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m133ms - 2.49kb[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /css/main.css [36m304 [90m1ms[0m
+[90mGET /css/settings.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m3ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/jarvis.js [36m304 [90m123ms[0m
+[90mGET /js/script.js [36m304 [90m24ms[0m
+[90mGET /js/speech.js [36m304 [90m33ms[0m
+[90mGET / [36m304 [90m25ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m0ms[0m
+[90mGET /css/settings.css [32m200 [90m3ms - 240b[0m
+[90mGET /lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/jarvis.js [36m304 [90m59ms[0m
+[90mGET /js/speech.js [36m304 [90m6ms[0m
+[90mGET /js/script.js [36m304 [90m22ms[0m
+[90mGET /resources/fonts/Teio.ttf [36m304 [90m2ms[0m
+[90mGET /resources/fonts/fontawesome-webfont.woff?v=4.0.3 [36m304 [90m1ms[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [36m304 [90m1ms[0m
+[90mGET /resources/images/favicon.png [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m24ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m0ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m0ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /css/settings.css [32m200 [90m3ms - 385b[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/jarvis.js [36m304 [90m53ms[0m
+[90mGET /js/speech.js [36m304 [90m7ms[0m
+[90mGET /js/script.js [36m304 [90m21ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/images/favicon.png [36m304 [90m1ms[0m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [36m304 [90m131ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m0ms[0m
+[90mGET /css/main.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m3ms[0m
+[90mGET /css/settings.css [32m200 [90m7ms - 385b[0m
+[90mGET /lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /js/jarvis.js [36m304 [90m128ms[0m
+[90mGET /js/script.js [36m304 [90m23ms[0m
+[90mGET /js/speech.js [36m304 [90m33ms[0m
+[90mGET /resources/images/favicon.png [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m23ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m1ms[0m
+[90mGET /css/settings.css [32m200 [90m1ms - 383b[0m
+[90mGET /lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/jarvis.js [36m304 [90m61ms[0m
+[90mGET /js/script.js [36m304 [90m19ms[0m
+[90mGET /js/speech.js [36m304 [90m5ms[0m
+[90mGET / [36m304 [90m25ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /css/settings.css [32m200 [90m6ms - 381b[0m
+[90mGET /js/jarvis.js [36m304 [90m49ms[0m
+[90mGET /js/script.js [36m304 [90m22ms[0m
+[90mGET /js/speech.js [36m304 [90m26ms[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m18ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /css/settings.css [32m200 [90m2ms - 381b[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/jarvis.js [36m304 [90m42ms[0m
+[90mGET /js/script.js [36m304 [90m11ms[0m
+[90mGET /js/speech.js [36m304 [90m15ms[0m
+[90mGET / [36m304 [90m14ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /css/main.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /css/settings.css [32m200 [90m3ms - 437b[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/jarvis.js [36m304 [90m38ms[0m
+[90mGET /js/script.js [36m304 [90m11ms[0m
+[90mGET /js/speech.js [36m304 [90m19ms[0m
+[90mGET / [36m304 [90m12ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /css/main.css [36m304 [90m1ms[0m
+[90mGET /css/settings.css [32m200 [90m4ms - 441b[0m
+[90mGET /lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/script.js [36m304 [90m15ms[0m
+[90mGET /js/speech.js [36m304 [90m5ms[0m
+[90mGET /js/jarvis.js [36m304 [90m34ms[0m
+[90mGET / [36m304 [90m22ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m0ms[0m
+[90mGET /css/main.css [36m304 [90m2ms[0m
+[90mGET /css/settings.css [32m200 [90m3ms - 463b[0m
+[90mGET /lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /lib/annyang.js [36m304 [90m0ms[0m
+[90mGET /js/jarvis.js [36m304 [90m35ms[0m
+[90mGET /js/script.js [36m304 [90m13ms[0m
+[90mGET /js/speech.js [36m304 [90m7ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m0ms[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/jarvis.js [36m304 [90m34ms[0m
+[90mGET /js/script.js [36m304 [90m11ms[0m
+[90mGET /js/speech.js [36m304 [90m4ms[0m
+[90mGET / [36m304 [90m15ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m1ms[0m
+[90mGET /css/settings.css [32m200 [90m1ms - 491b[0m
+[90mGET /lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /lib/annyang.js [36m304 [90m0ms[0m
+[90mGET /js/jarvis.js [36m304 [90m35ms[0m
+[90mGET /js/script.js [36m304 [90m13ms[0m
+[90mGET /js/speech.js [36m304 [90m18ms[0m
+[90mGET / [36m304 [90m17ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m0ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m0ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /css/settings.css [32m200 [90m3ms - 494b[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/jarvis.js [36m304 [90m35ms[0m
+[90mGET /js/script.js [36m304 [90m46ms[0m
+[90mGET /js/speech.js [36m304 [90m5ms[0m
+[90mGET /lib/annyang.js [36m304 [90m0ms[0m
+[90mGET /js/jarvis.js [36m304 [90m40ms[0m
+[90mGET /js/script.js [36m304 [90m12ms[0m
+[90mGET /js/speech.js [36m304 [90m4ms[0m
+[90mGET / [36m304 [90m13ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m0ms[0m
+[90mGET /css/main.css [36m304 [90m0ms[0m
+[90mGET /css/settings.css [32m200 [90m1ms - 477b[0m
+[90mGET /lib/dropzone.js [36m304 [90m0ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/jarvis.js [36m304 [90m63ms[0m
+[90mGET /js/script.js [36m304 [90m34ms[0m
+[90mGET /js/speech.js [36m304 [90m38ms[0m
+[90mGET / [36m304 [90m16ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m1ms[0m
+[90mGET /css/settings.css [32m200 [90m1ms - 377b[0m
+[90mGET /lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/jarvis.js [36m304 [90m35ms[0m
+[90mGET /js/speech.js [36m304 [90m4ms[0m
+[90mGET /js/script.js [36m304 [90m15ms[0m
+[90mGET / [36m304 [90m12ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m4ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m3ms[0m
+[90mGET /css/main.css [36m304 [90m2ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /css/settings.css [32m200 [90m2ms - 375b[0m
+[90mGET /lib/annyang.js [36m304 [90m0ms[0m
+[90mGET /js/jarvis.js [36m304 [90m33ms[0m
+[90mGET /js/speech.js [36m304 [90m4ms[0m
+[90mGET /js/script.js [36m304 [90m15ms[0m
+[90mGET / [32m200 [90m15ms - 2.49kb[0m
+[90mGET /lib/font-awesome.min.css [32m200 [90m1ms - 17.4kb[0m
+[90mGET /lib/dropzone.css [32m200 [90m1ms - 11.33kb[0m
+[90mGET /css/main.css [32m200 [90m1ms - 5.39kb[0m
+[90mGET /css/settings.css [32m200 [90m2ms - 375b[0m
+[90mGET /lib/dropzone.js [32m200 [90m3ms - 60.02kb[0m
+[90mGET /lib/jquery.min.js [32m200 [90m38ms - 94.12kb[0m
+[90mGET /lib/annyang.js [32m200 [90m1ms - 2.57kb[0m
+[90mGET /js/jarvis.js [32m200 [90m34ms - 14.99kb[0m
+[90mGET /js/script.js [32m200 [90m11ms - 4.56kb[0m
+[90mGET /js/speech.js [32m200 [90m6ms - 2.01kb[0m
+[90mGET /resources/fonts/fontawesome-webfont.woff?v=4.0.3 [32m200 [90m3ms - 43.39kb[0m
+[90mGET /resources/fonts/Teio.ttf [32m200 [90m2ms - 23.79kb[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [32m200 [90m2ms - 9.93kb[0m
+[90mGET / [36m304 [90m12ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m2ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /css/settings.css [32m200 [90m2ms - 632b[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/jarvis.js [36m304 [90m33ms[0m
+[90mGET /js/script.js [36m304 [90m14ms[0m
+[90mGET /js/speech.js [36m304 [90m18ms[0m
+[90mGET /resources/fonts/Teio.ttf [36m304 [90m0ms[0m
+[90mGET /resources/fonts/fontawesome-webfont.woff?v=4.0.3 [36m304 [90m0ms[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [36m304 [90m1ms[0m
+[90mGET /resources/images/favicon.png [36m304 [90m0ms[0m
+[90mGET / [36m304 [90m13ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m1ms[0m
+[90mGET /css/settings.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /lib/annyang.js [36m304 [90m0ms[0m
+[90mGET /js/jarvis.js [36m304 [90m30ms[0m
+[90mGET /js/script.js [36m304 [90m15ms[0m
+[90mGET /js/speech.js [36m304 [90m19ms[0m
+[90mGET /resources/images/favicon.png [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m13ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m3ms[0m
+[90mGET /css/settings.css [36m304 [90m2ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/script.js [36m304 [90m11ms[0m
+[90mGET /js/jarvis.js [36m304 [90m46ms[0m
+[90mGET /js/speech.js [36m304 [90m40ms[0m
+[90mGET /resources/images/favicon.png [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m19ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m0ms[0m
+[90mGET /css/main.css [36m304 [90m0ms[0m
+[90mGET /css/settings.css [32m200 [90m2ms - 652b[0m
+[90mGET /lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m0ms[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/jarvis.js [36m304 [90m37ms[0m
+[90mGET /js/script.js [36m304 [90m49ms[0m
+[90mGET /js/speech.js [36m304 [90m53ms[0m
+[90mGET /resources/images/favicon.png [36m304 [90m2ms[0m
+[90mGET / [36m304 [90m16ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m0ms[0m
+[90mGET /css/settings.css [32m200 [90m1ms - 632b[0m
+[90mGET /lib/dropzone.js [36m304 [90m0ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /lib/annyang.js [36m304 [90m0ms[0m
+[90mGET /js/jarvis.js [36m304 [90m36ms[0m
+[90mGET /js/speech.js [36m304 [90m4ms[0m
+[90mGET /js/script.js [36m304 [90m15ms[0m
+[90mGET /resources/images/favicon.png [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [36m304 [90m102ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /css/main.css [36m304 [90m1ms[0m
+[90mGET /css/settings.css [36m304 [90m5ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m4ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/jarvis.js [36m304 [90m127ms[0m
+[90mGET /js/script.js [36m304 [90m23ms[0m
+[90mGET /js/speech.js [36m304 [90m32ms[0m
+[90mGET /resources/images/favicon.png [36m304 [90m0ms[0m
+[90mGET /nothing [33m404 [90m10ms - 212b[0m
+[90mGET /css/404.css [32m200 [90m2ms - 200b[0m
+[90mGET /js/404.js [32m200 [90m6ms - 1.43kb[0m
+[90mGET /resources/images/hal.svg [32m200 [90m2ms - 13.63kb[0m
+[90mGET /nothing [33m404 [90m5ms - 212b[0m
+[90mGET /css/404.css [36m304 [90m1ms[0m
+[90mGET /js/404.js [32m200 [90m8ms - 1.43kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nothing [33m404 [90m106ms - 212b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[0;31m  [90mCOFFEE SyntaxError :[0m [36munmatched OUTDENT[0m
+[m
+[0;31m404.coffee:7:94: error: unmatched OUTDENT
+	setInterval speechSynthesis.speak, 5000, messages[math.floor math.random() * messages.length
+                                                                                             ^
+[m
+[90mGET /js/404.js [31m500 [90m6ms - 230b[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /nothing [33m404 [90m6ms - 212b[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nothing [33m404 [90m108ms - 212b[0m
+[90mGET /css/404.css [36m304 [90m2ms[0m
+[90mGET /js/404.js [32m200 [90m25ms - 1.73kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m2ms[0m
+[90mGET /nothing [33m404 [90m6ms - 212b[0m
+[90mGET /css/404.css [36m304 [90m2ms[0m
+[90mGET /js/404.js [32m200 [90m14ms - 1.72kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nothing [33m404 [90m110ms - 212b[0m
+[90mGET /css/404.css [36m304 [90m2ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /js/404.js [32m200 [90m27ms - 1.96kb[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nothing [33m404 [90m107ms - 212b[0m
+[90mGET /css/404.css [36m304 [90m2ms[0m
+[90mGET /js/404.js [32m200 [90m24ms - 1.72kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m2ms[0m
+[90mGET /nothing [33m404 [90m7ms - 212b[0m
+[90mGET /css/404.css [36m304 [90m2ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /js/404.js [32m200 [90m17ms - 1.81kb[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [36m304 [90m102ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m1ms[0m
+[90mGET /css/settings.css [36m304 [90m2ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /js/jarvis.js [36m304 [90m128ms[0m
+[90mGET /lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /js/speech.js [36m304 [90m9ms[0m
+[90mGET /js/script.js [36m304 [90m34ms[0m
+[90mGET /resources/fonts/Teio.ttf [36m304 [90m2ms[0m
+[90mGET /resources/fonts/fontawesome-webfont.woff?v=4.0.3 [36m304 [90m1ms[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [36m304 [90m1ms[0m
+[90mGET /nothing [33m404 [90m11ms - 212b[0m
+[90mGET /css/404.css [36m304 [90m0ms[0m
+[90mGET /js/404.js [36m304 [90m6ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m26ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m2ms[0m
+[90mGET /css/settings.css [36m304 [90m0ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m0ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m0ms[0m
+[90mGET /lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /js/jarvis.js [36m304 [90m60ms[0m
+[90mGET /js/script.js [36m304 [90m20ms[0m
+[90mGET /js/speech.js [36m304 [90m30ms[0m
+[90mGET /resources/fonts/Teio.ttf [36m304 [90m1ms[0m
+[90mGET /resources/fonts/fontawesome-webfont.woff?v=4.0.3 [36m304 [90m3ms[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [36m304 [90m1ms[0m
+[90mGET /nothing [33m404 [90m4ms - 212b[0m
+[90mGET /css/404.css [36m304 [90m1ms[0m
+[90mGET /js/404.js [36m304 [90m7ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nothing [33m404 [90m109ms - 212b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /js/404.js [32m200 [90m25ms - 1.81kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m2ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nothing [33m404 [90m109ms - 212b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /js/404.js [32m200 [90m26ms - 1.84kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /nothing [33m404 [90m6ms - 212b[0m
+[90mGET /css/404.css [36m304 [90m2ms[0m
+[90mGET /js/404.js [32m200 [90m17ms - 2.01kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m2ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nothing [33m404 [90m109ms - 212b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /js/404.js [32m200 [90m27ms - 1.97kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /js/404.coffee [32m200 [90m2ms - 546b[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nothing [33m404 [90m79ms - 212b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /js/404.js [32m200 [90m29ms - 2.42kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /js/404.coffee [32m200 [90m3ms - 654b[0m
+[90mGET /nothing [33m404 [90m13ms - 212b[0m
+[90mGET /css/404.css [36m304 [90m1ms[0m
+[90mGET /js/404.js [36m304 [90m17ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m0ms[0m
+[90mGET /js/404.coffee [36m304 [90m1ms[0m
+[90mGET /nothing [33m404 [90m7ms - 212b[0m
+[90mGET /css/404.css [36m304 [90m1ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /js/404.js [36m304 [90m16ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nothing [33m404 [90m107ms - 212b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /js/404.js [32m200 [90m29ms - 2.6kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nothing [33m404 [90m108ms - 212b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m2ms[0m
+[90mGET /js/404.js [32m200 [90m26ms - 2.25kb[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nothing [33m404 [90m108ms - 212b[0m
+[90mGET /css/404.css [36m304 [90m2ms[0m
+[90mGET /js/404.js [32m200 [90m26ms - 2.2kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /robots.txt [33m404 [90m107ms - 212b[0m
+[90mGET / [32m200 [90m36ms - 2.49kb[0m
+[90mGET /lib/font-awesome.min.css [32m200 [90m6ms - 17.4kb[0m
+[90mGET /lib/dropzone.css [32m200 [90m4ms - 11.33kb[0m
+[90mGET /css/main.css [32m200 [90m3ms - 5.39kb[0m
+[90mGET /css/settings.css [32m200 [90m9ms - 632b[0m
+[90mGET /lib/dropzone.js [32m200 [90m11ms - 60.02kb[0m
+[90mGET /lib/jquery.min.js [32m200 [90m12ms - 94.12kb[0m
+[90mGET /js/jarvis.js [32m200 [90m137ms - 14.99kb[0m
+[90mGET /lib/annyang.js [32m200 [90m139ms - 2.57kb[0m
+[90mGET /js/script.js [32m200 [90m159ms - 4.56kb[0m
+[90mGET /js/speech.js [32m200 [90m33ms - 2.01kb[0m
+[90mGET /resources/fonts/Teio.ttf [32m200 [90m2ms - 23.79kb[0m
+[90mGET /resources/fonts/fontawesome-webfont.woff?v=4.0.3 [32m200 [90m3ms - 43.39kb[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [32m200 [90m1ms - 9.93kb[0m
+[90mGET / [32m200 [90m25ms - 2.49kb[0m
+[90mGET /lib/font-awesome.min.css [32m200 [90m1ms - 17.4kb[0m
+[90mGET /lib/dropzone.css [32m200 [90m4ms - 11.33kb[0m
+[90mGET /css/main.css [32m200 [90m8ms - 5.39kb[0m
+[90mGET /css/settings.css [32m200 [90m5ms - 632b[0m
+[90mGET /js/speech.js [32m200 [90m13ms - 2.01kb[0m
+[90mGET /js/script.js [32m200 [90m26ms - 4.56kb[0m
+[90mGET /js/jarvis.js [32m200 [90m74ms - 14.99kb[0m
+[90mGET /lib/dropzone.js [32m200 [90m79ms - 60.02kb[0m
+[90mGET /lib/annyang.js [32m200 [90m3ms - 2.57kb[0m
+[90mGET /lib/jquery.min.js [32m200 [90m22ms - 94.12kb[0m
+[90mGET /resources/fonts/Teio.ttf [32m200 [90m2ms - 23.79kb[0m
+[90mGET /resources/fonts/fontawesome-webfont.woff?v=4.0.3 [32m200 [90m3ms - 43.39kb[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [32m200 [90m2ms - 9.93kb[0m
+[90mGET /resources/userMusic/ra_ra_rasputin.mp3 [32m206 [90m151884ms - 7.85mb[0m
+[90mGET /resources/userMusic/raw_ruston.mp3 [33m404 [90m6ms - 212b[0m
+[90mGET / [32m200 [90m17ms - 2.49kb[0m
+[90mGET /lib/font-awesome.min.css [32m200 [90m1ms - 17.4kb[0m
+[90mGET /lib/dropzone.css [32m200 [90m2ms - 11.33kb[0m
+[90mGET /lib/dropzone.js [32m200 [90m1ms - 60.02kb[0m
+[90mGET /css/main.css [32m200 [90m6ms - 5.39kb[0m
+[90mGET /css/settings.css [32m200 [90m2ms - 632b[0m
+[90mGET /lib/annyang.js [32m200 [90m3ms - 2.57kb[0m
+[90mGET /js/jarvis.js [32m200 [90m51ms - 14.99kb[0m
+[90mGET /lib/jquery.min.js [32m200 [90m61ms - 94.12kb[0m
+[90mGET /js/script.js [32m200 [90m26ms - 4.56kb[0m
+[90mGET /js/speech.js [32m200 [90m33ms - 2.01kb[0m
+[90mGET /resources/fonts/Teio.ttf [32m200 [90m2ms - 23.79kb[0m
+[90mGET /resources/fonts/fontawesome-webfont.woff?v=4.0.3 [32m200 [90m4ms - 43.39kb[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [32m200 [90m1ms - 9.93kb[0m
+[90mGET /resources/userMusic/210.mp3 [33m404 [90m4ms - 212b[0m
+[90mGET /resources/userMusic/ra_ra_rasputin.mp3 [32m206 [90m152014ms - 7.85mb[0m
+[90mGET / [32m200 [90m63ms - 2.49kb[0m
+[90mGET /lib/font-awesome.min.css [32m200 [90m3ms - 17.4kb[0m
+[90mGET /css/settings.css [32m200 [90m6ms - 632b[0m
+[90mGET /css/main.css [32m200 [90m5ms - 5.39kb[0m
+[90mGET /lib/annyang.js [32m200 [90m4ms - 2.57kb[0m
+[90mGET /js/jarvis.js [32m200 [90m43ms - 14.99kb[0m
+[90mGET /js/script.js [32m200 [90m58ms - 4.56kb[0m
+[90mGET /lib/dropzone.js [32m200 [90m61ms - 60.02kb[0m
+[90mGET /lib/dropzone.css [32m200 [90m2ms - 11.33kb[0m
+[90mGET /js/speech.js [32m200 [90m8ms - 2.01kb[0m
+[90mGET /lib/jquery.min.js [32m200 [90m69ms - 94.12kb[0m
+[90mGET /resources/fonts/Teio.ttf [32m200 [90m2ms - 23.79kb[0m
+[90mGET /resources/fonts/fontawesome-webfont.woff?v=4.0.3 [32m200 [90m2ms - 43.39kb[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [32m200 [90m2ms - 9.93kb[0m
+[90mGET /resources/userMusic [36m303 [90m1ms[0m
+[90mGET /resources/userMusic/ [33m404 [90m4ms - 212b[0m
+[90mGET /resources/userMusic/css/404.css [33m404 [90m4ms - 212b[0m
+[90mGET /resources/userMusic/js/404.js [33m404 [90m7ms - 212b[0m
+[90mGET /resources/userMusic/resources/images/hal.svg [33m404 [90m6ms - 212b[0m
+[90mGET /favicon.ico [33m404 [90m4ms - 212b[0m
+[90mGET /resources/userMusic/ [33m404 [90m4ms - 212b[0m
+[90mGET /resources/userMusic/css/404.css [33m404 [90m3ms - 212b[0m
+[90mGET /resources/userMusic/resources/images/hal.svg [33m404 [90m5ms - 212b[0m
+[90mGET /resources/userMusic/js/404.js [33m404 [90m9ms - 212b[0m
+[90mGET /resources/userMusic/resources/images/hal.svg [33m404 [90m4ms - 212b[0m
+[90mGET /resources/userMusic/ [33m404 [90m6ms - 209b[0m
+[90mGET /css/404.css [32m200 [90m1ms - 200b[0m
+[90mGET /js/404.js [32m200 [90m7ms - 2.56kb[0m
+[90mGET /resources/images/hal.svg [32m200 [90m1ms - 13.63kb[0m
+[0;45m    hotnode [m [0;35mwebroot/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35mserver.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35mserver.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;31m
+[m
+[0;31m/home/web/server.coffee:89
+[m
+[0;31m      response.writeHead(200, {
+      ^
+[m
+[0;31mReferenceError: response is not defined
+  at /home/web/server.coffee:45:3
+  at Object.oncomplete (fs.js:107:15)
+
+[m
+[0;45m    hotnode [m [0;35mserver.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;31m
+[m
+[0;31m/home/web/server.coffee:89
+[m
+[0;31m      res.writeHead(200, {
+      ^
+[m
+[0;31mReferenceError: res is not defined
+  at /home/web/server.coffee:45:3
+  at Object.oncomplete (fs.js:107:15)
+
+[m
+[0;45m    hotnode [m [0;35mserver.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /resources/userMusic/ [33m404 [90m79ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /js/404.js [36m304 [90m36ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m2ms[0m
+[0;45m    hotnode [m [0;35mserver.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /resources/userMusic/ [32m200 [90m6ms[0m
+[0;45m    hotnode [m [0;35mserver.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /resources/userMusic/ [32m200 [90m7ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35mserver.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35mwebroot/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m102ms - 2.49kb[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m3ms[0m
+[90mGET /lib/jquery.min.js [32m200 [90m18ms - 94.12kb[0m
+[90mGET /css/main.css [36m304 [90m3ms[0m
+[90mGET /css/settings.css [36m304 [90m2ms[0m
+[90mGET /js/script.js [32m200 [90m55ms - 4.56kb[0m
+[90mGET /js/jarvis.js [32m200 [90m154ms - 15.08kb[0m
+[90mGET /js/speech.js [32m200 [90m10ms - 2.01kb[0m
+[90mGET /lib/dropzone.js [32m200 [90m13ms - 60.02kb[0m
+[90mGET /lib/annyang.js [32m200 [90m12ms - 2.57kb[0m
+[90mGET /resources/fonts/Teio.ttf [36m304 [90m1ms[0m
+[90mGET /resources/fonts/fontawesome-webfont.woff?v=4.0.3 [36m304 [90m1ms[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [36m304 [90m0ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m1ms - 1.07kb[0m
+[90mGET /resources/userMusic/ [32m200 [90m1ms[0m
+[90mGET / [32m200 [90m25ms - 2.49kb[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m1ms[0m
+[90mGET /css/settings.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /js/jarvis.js [32m200 [90m65ms - 15.24kb[0m
+[90mGET /js/script.js [36m304 [90m83ms[0m
+[90mGET /js/speech.js [36m304 [90m89ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m3ms - 1.07kb[0m
+[0;45m    hotnode [m [0;35mwebroot/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35mwebroot/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m105ms - 2.49kb[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m3ms[0m
+[90mGET /js/jarvis.js [32m200 [90m130ms - 15.26kb[0m
+[90mGET /css/settings.css [36m304 [90m3ms[0m
+[90mGET /css/main.css [36m304 [90m3ms[0m
+[90mGET /js/script.js [36m304 [90m23ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /js/speech.js [36m304 [90m10ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m102ms - 2.49kb[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m6ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /css/main.css [36m304 [90m5ms[0m
+[90mGET /css/settings.css [36m304 [90m5ms[0m
+[90mGET /js/jarvis.js [32m200 [90m132ms - 15.35kb[0m
+[90mGET /lib/jquery.min.js [36m304 [90m3ms[0m
+[90mGET /lib/annyang.js [36m304 [90m4ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /js/speech.js [36m304 [90m9ms[0m
+[90mGET /js/script.js [36m304 [90m30ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m2ms - 1.07kb[0m
+[90mGET / [32m200 [90m26ms - 2.49kb[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /css/main.css [36m304 [90m0ms[0m
+[90mGET /css/settings.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/script.js [36m304 [90m30ms[0m
+[90mGET /js/speech.js [36m304 [90m40ms[0m
+[90mGET /js/jarvis.js [32m200 [90m80ms - 15.22kb[0m
+[90mGET /resources/images/favicon.png [32m200 [90m3ms - 1.07kb[0m
+[0;45m    hotnode [m [0;35mwebroot/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35mwebroot/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m104ms - 2.49kb[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m4ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m1ms[0m
+[90mGET /css/settings.css [36m304 [90m1ms[0m
+[90mGET /js/script.js [36m304 [90m58ms[0m
+[90mGET /js/speech.js [36m304 [90m67ms[0m
+[90mGET /js/jarvis.js [32m200 [90m106ms - 15.19kb[0m
+[90mGET /lib/jquery.min.js [32m200 [90m112ms - 94.12kb[0m
+[90mGET /lib/annyang.js [36m304 [90m3ms[0m
+[90mGET /lib/dropzone.js [32m200 [90m5ms - 60.02kb[0m
+[90mGET /resources/images/favicon.png [32m200 [90m0ms - 1.07kb[0m
+[90mGET /resources/userMusic/brawl_rah_rah_stoughton.mp3 [33m404 [90m10ms - 209b[0m
+[90mGET /resources/userMusic/draw_2_10.mp3 [33m404 [90m6ms - 209b[0m
+[90mGET /resources/userMusic/ra_ra_rasputin.mp3 [32m206 [90m148007ms - 7.85mb[0m
+[90mGET / [32m200 [90m24ms - 2.49kb[0m
+[90mGET /lib/font-awesome.min.css [32m200 [90m2ms - 17.4kb[0m
+[90mGET /css/settings.css [32m200 [90m10ms - 632b[0m
+[90mGET /lib/dropzone.css [32m200 [90m3ms - 11.33kb[0m
+[90mGET /css/main.css [32m200 [90m3ms - 5.39kb[0m
+[90mGET /lib/dropzone.js [32m200 [90m4ms - 60.02kb[0m
+[90mGET /lib/jquery.min.js [32m200 [90m4ms - 94.12kb[0m
+[90mGET /js/jarvis.js [32m200 [90m59ms - 15.19kb[0m
+[90mGET /js/script.js [32m200 [90m32ms - 4.56kb[0m
+[90mGET /js/speech.js [32m200 [90m38ms - 2.01kb[0m
+[90mGET /lib/annyang.js [32m200 [90m1ms - 2.57kb[0m
+[90mGET /resources/fonts/Teio.ttf [32m200 [90m4ms - 23.79kb[0m
+[90mGET /resources/fonts/fontawesome-webfont.woff?v=4.0.3 [32m200 [90m3ms - 43.39kb[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [32m200 [90m1ms - 9.93kb[0m
+[90mGET / [32m200 [90m19ms - 2.49kb[0m
+[90mGET /lib/font-awesome.min.css [32m200 [90m2ms - 17.4kb[0m
+[90mGET /lib/dropzone.css [32m200 [90m1ms - 11.33kb[0m
+[90mGET /css/main.css [32m200 [90m1ms - 5.39kb[0m
+[90mGET /css/settings.css [32m200 [90m1ms - 632b[0m
+[90mGET /lib/dropzone.js [32m200 [90m3ms - 60.02kb[0m
+[90mGET /lib/annyang.js [32m200 [90m1ms - 2.57kb[0m
+[90mGET /js/jarvis.js [32m200 [90m50ms - 15.19kb[0m
+[90mGET /lib/jquery.min.js [32m200 [90m69ms - 94.12kb[0m
+[90mGET /js/script.js [32m200 [90m14ms - 4.56kb[0m
+[90mGET /js/speech.js [32m200 [90m21ms - 2.01kb[0m
+[90mGET /resources/fonts/Teio.ttf [32m200 [90m2ms - 23.79kb[0m
+[90mGET /resources/fonts/fontawesome-webfont.woff?v=4.0.3 [32m200 [90m1ms - 43.39kb[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [32m200 [90m1ms - 9.93kb[0m
+[90mGET / [32m200 [90m22ms - 2.49kb[0m
+[90mGET /lib/font-awesome.min.css [32m200 [90m2ms - 17.4kb[0m
+[90mGET /lib/dropzone.css [32m200 [90m1ms - 11.33kb[0m
+[90mGET /css/main.css [32m200 [90m1ms - 5.39kb[0m
+[90mGET /css/settings.css [32m200 [90m2ms - 632b[0m
+[90mGET /lib/dropzone.js [32m200 [90m4ms - 60.02kb[0m
+[90mGET /lib/annyang.js [32m200 [90m3ms - 2.57kb[0m
+[90mGET /js/jarvis.js [32m200 [90m89ms - 15.19kb[0m
+[90mGET /lib/jquery.min.js [32m200 [90m107ms - 94.12kb[0m
+[90mGET /js/script.js [32m200 [90m14ms - 4.56kb[0m
+[90mGET /js/speech.js [32m200 [90m18ms - 2.01kb[0m
+[90mGET /resources/fonts/Teio.ttf [32m200 [90m3ms - 23.79kb[0m
+[90mGET /resources/fonts/fontawesome-webfont.woff?v=4.0.3 [32m200 [90m4ms - 43.39kb[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [32m200 [90m1ms - 9.93kb[0m
+[90mGET /resources/images/favicon.png [32m200 [90m1ms - 1.07kb[0m
+[90mGET /resources/userMusic/dead_giveaway.mp3 [32m206 [90m4421ms - 3.45mb[0m
+[90mGET /resources/userMusic/ra_ra_rasputin.mp3 [32m206 [90m118822ms - 7.85mb[0m
+[90mGET / [32m200 [90m14ms - 2.49kb[0m
+[90mGET /lib/font-awesome.min.css [32m200 [90m2ms - 17.4kb[0m
+[90mGET /lib/dropzone.css [32m200 [90m1ms - 11.33kb[0m
+[90mGET /css/main.css [32m200 [90m2ms - 5.39kb[0m
+[90mGET /css/settings.css [32m200 [90m3ms - 632b[0m
+[90mGET /lib/dropzone.js [32m200 [90m3ms - 60.02kb[0m
+[90mGET /lib/annyang.js [32m200 [90m1ms - 2.57kb[0m
+[90mGET /lib/jquery.min.js [32m200 [90m51ms - 94.12kb[0m
+[90mGET /js/jarvis.js [32m200 [90m60ms - 15.19kb[0m
+[90mGET /js/script.js [32m200 [90m21ms - 4.56kb[0m
+[90mGET /js/speech.js [32m200 [90m30ms - 2.01kb[0m
+[90mGET /resources/fonts/Teio.ttf [32m200 [90m2ms - 23.79kb[0m
+[90mGET /resources/fonts/fontawesome-webfont.woff?v=4.0.3 [32m200 [90m1ms - 43.39kb[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [32m200 [90m1ms - 9.93kb[0m
+[90mGET /resources/images/favicon.png [32m200 [90m1ms - 1.07kb[0m
+[90mGET /resources/userMusic/dead_giveaway.mp3 [32m206 [90m12268ms - 3.45mb[0m
+[90mGET / [36m304 [90m17ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m0ms[0m
+[90mGET /css/settings.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /lib/annyang.js [36m304 [90m0ms[0m
+[90mGET /js/jarvis.js [36m304 [90m40ms[0m
+[90mGET /js/script.js [36m304 [90m16ms[0m
+[90mGET /js/speech.js [36m304 [90m20ms[0m
+[90mGET /resources/images/favicon.png [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m17ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m0ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m1ms[0m
+[90mGET /css/settings.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /lib/annyang.js [36m304 [90m0ms[0m
+[90mGET /js/jarvis.js [36m304 [90m38ms[0m
+[90mGET /js/script.js [36m304 [90m11ms[0m
+[90mGET /js/speech.js [36m304 [90m16ms[0m
+[90mGET /resources/fonts/Teio.ttf [36m304 [90m1ms[0m
+[90mGET /resources/fonts/fontawesome-webfont.woff?v=4.0.3 [36m304 [90m1ms[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [36m304 [90m1ms[0m
+[90mGET /resources/userMusic/dead_giveaway.mp3 [36m304 [90m0ms[0m
+[90mGET / [36m304 [90m15ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m1ms[0m
+[90mGET /css/settings.css [36m304 [90m0ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m0ms[0m
+[90mGET /lib/annyang.js [36m304 [90m0ms[0m
+[90mGET /js/jarvis.js [36m304 [90m45ms[0m
+[90mGET /js/script.js [36m304 [90m59ms[0m
+[90mGET /js/speech.js [36m304 [90m19ms[0m
+[90mGET /resources/fonts/Teio.ttf [36m304 [90m2ms[0m
+[90mGET /resources/fonts/fontawesome-webfont.woff?v=4.0.3 [36m304 [90m1ms[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [36m304 [90m2ms[0m
+[90mGET /js/jarvis.coffee [32m200 [90m1ms - 5.17kb[0m
+[90mGET / [36m304 [90m14ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m0ms[0m
+[90mGET /css/settings.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /lib/annyang.js [36m304 [90m0ms[0m
+[90mGET /js/jarvis.js [36m304 [90m39ms[0m
+[90mGET /js/script.js [36m304 [90m12ms[0m
+[90mGET /js/speech.js [36m304 [90m24ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m1ms - 1.07kb[0m
+[90mGET /resources/userMusic/bla.mp3 [33m404 [90m6ms - 209b[0m
+[90mGET /resources/userMusic/bla.mp3 [33m404 [90m6ms - 209b[0m
+[90mGET /resources/userMusic/bla.mp3 [33m404 [90m3ms - 209b[0m
+[90mGET / [36m304 [90m13ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m0ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m0ms[0m
+[90mGET /css/main.css [36m304 [90m0ms[0m
+[90mGET /css/settings.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/jarvis.js [36m304 [90m32ms[0m
+[90mGET /js/speech.js [36m304 [90m5ms[0m
+[90mGET /js/script.js [36m304 [90m19ms[0m
+[90mGET /resources/userMusic/by_lana.mp3 [33m404 [90m6ms - 209b[0m
+[90mGET /resources/userMusic/ra_ra_rasputin.mp3 [36m304 [90m0ms[0m
+[90mGET / [36m304 [90m19ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m0ms[0m
+[90mGET /css/main.css [36m304 [90m1ms[0m
+[90mGET /css/settings.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m0ms[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/jarvis.js [36m304 [90m43ms[0m
+[90mGET /js/script.js [36m304 [90m17ms[0m
+[90mGET /js/speech.js [36m304 [90m29ms[0m
+[90mGET /resources/fonts/Teio.ttf [36m304 [90m1ms[0m
+[90mGET /resources/fonts/fontawesome-webfont.woff?v=4.0.3 [36m304 [90m1ms[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [36m304 [90m0ms[0m
+[90mGET /nfaknfasf [33m404 [90m4ms - 209b[0m
+[90mGET /css/404.css [32m200 [90m1ms - 200b[0m
+[90mGET /js/404.js [32m200 [90m7ms - 2.56kb[0m
+[90mGET /resources/images/hal.svg [32m200 [90m1ms - 13.63kb[0m
+[90mGET /favicon.ico [33m404 [90m4ms - 209b[0m
+[90mGET /js/404.coffee [32m200 [90m3ms - 687b[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nfaknfasf [33m404 [90m79ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m2ms[0m
+[90mGET /js/404.js [32m200 [90m30ms - 2.54kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /nfaknfasf [33m404 [90m8ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m2ms[0m
+[90mGET /js/404.js [36m304 [90m18ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m18ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nfaknfasf [33m404 [90m80ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /js/404.js [32m200 [90m30ms - 2.55kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m6ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nfaknfasf [33m404 [90m108ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /js/404.js [32m200 [90m31ms - 2.59kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m2ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [36m304 [90m130ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m3ms[0m
+[90mGET /css/main.css [36m304 [90m2ms[0m
+[90mGET /css/settings.css [36m304 [90m2ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m3ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/jarvis.js [36m304 [90m131ms[0m
+[90mGET /js/script.js [36m304 [90m155ms[0m
+[90mGET /js/speech.js [36m304 [90m10ms[0m
+[90mGET /resources/images/favicon.png [36m304 [90m1ms[0m
+[90mGET /nfaknfasf [33m404 [90m11ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m1ms[0m
+[90mGET /js/404.js [32m200 [90m13ms - 2.59kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nfaknfasf [33m404 [90m107ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /js/404.js [32m200 [90m31ms - 2.59kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m3ms[0m
+[90mGET /nfaknfasf [33m404 [90m8ms - 209b[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nfaknfasf [33m404 [90m108ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /js/404.js [32m200 [90m31ms - 2.55kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m2ms[0m
+[90mGET /nfaknfasf [33m404 [90m8ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m2ms[0m
+[90mGET /js/404.js [36m304 [90m16ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nfaknfasf [33m404 [90m105ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /js/404.js [32m200 [90m29ms - 2.56kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nfaknfasf [33m404 [90m105ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /js/404.js [32m200 [90m31ms - 2.76kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nfaknfasf [33m404 [90m80ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m2ms[0m
+[90mGET /js/404.js [32m200 [90m35ms - 2.73kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /nfaknfasf [33m404 [90m9ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /js/404.js [36m304 [90m17ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /nfaknfasf [33m404 [90m6ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m0ms[0m
+[90mGET /js/404.js [36m304 [90m19ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nfaknfasf [33m404 [90m105ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /js/404.js [32m200 [90m35ms - 2.75kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /nfaknfasf [33m404 [90m8ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m2ms[0m
+[90mGET /js/404.js [32m200 [90m15ms - 2.74kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nfaknfasf [33m404 [90m105ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /js/404.js [32m200 [90m35ms - 2.83kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /nfaknfasf [33m404 [90m9ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m2ms[0m
+[90mGET /js/404.js [36m304 [90m16ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m0ms[0m
+[90mGET /asdfljkhalksdjfh [33m404 [90m7ms - 209b[0m
+[90mGET /css/404.css [32m200 [90m3ms - 200b[0m
+[90mGET /js/404.js [32m200 [90m21ms - 2.83kb[0m
+[90mGET /resources/images/hal.svg [32m200 [90m1ms - 13.63kb[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m103ms - 2.49kb[0m
+[90mGET /lib/font-awesome.min.css [32m200 [90m9ms - 17.4kb[0m
+[90mGET /lib/dropzone.css [32m200 [90m7ms - 11.33kb[0m
+[90mGET /lib/annyang.js [32m200 [90m3ms - 2.57kb[0m
+[90mGET /css/main.css [32m200 [90m6ms - 5.39kb[0m
+[90mGET /css/settings.css [32m200 [90m4ms - 632b[0m
+[90mGET /lib/dropzone.js [32m200 [90m6ms - 60.02kb[0m
+[90mGET /js/jarvis.js [32m200 [90m137ms - 15.19kb[0m
+[90mGET /lib/jquery.min.js [32m200 [90m148ms - 94.12kb[0m
+[90mGET /js/script.js [32m200 [90m24ms - 4.56kb[0m
+[90mGET /js/speech.js [32m200 [90m29ms - 2.01kb[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [32m200 [90m2ms - 9.93kb[0m
+[90mGET /resources/fonts/Teio.ttf [32m200 [90m3ms - 23.79kb[0m
+[90mGET /resources/fonts/fontawesome-webfont.woff?v=4.0.3 [32m200 [90m2ms - 43.39kb[0m
+[90mGET /resources/images/favicon.png [32m200 [90m1ms - 1.07kb[0m
+[90mGET / [36m304 [90m26ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m2ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m0ms[0m
+[90mGET /css/main.css [36m304 [90m0ms[0m
+[90mGET /css/settings.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/jarvis.js [36m304 [90m60ms[0m
+[90mGET /js/script.js [36m304 [90m79ms[0m
+[90mGET /js/speech.js [36m304 [90m7ms[0m
+[90mGET /resources/images/favicon.png [36m304 [90m0ms[0m
+[90mGET /favicon.ico [33m404 [90m14ms - 209b[0m
+[90mGET /2131 [33m404 [90m4ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m0ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m2ms[0m
+[90mGET /js/404.js [32m200 [90m13ms - 2.64kb[0m
+[90mGET / [36m304 [90m18ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/settings.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m3ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m3ms[0m
+[90mGET /lib/annyang.js [36m304 [90m0ms[0m
+[90mGET /js/script.js [36m304 [90m20ms[0m
+[90mGET /js/jarvis.js [36m304 [90m44ms[0m
+[90mGET /js/speech.js [36m304 [90m49ms[0m
+[90mGET / [36m304 [90m17ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /css/main.css [36m304 [90m2ms[0m
+[90mGET /css/settings.css [36m304 [90m2ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/jarvis.js [36m304 [90m46ms[0m
+[90mGET /js/script.js [36m304 [90m56ms[0m
+[90mGET /js/speech.js [36m304 [90m69ms[0m
+[90mGET /asdfljkhalksdjfh [33m404 [90m5ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m1ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /js/404.js [32m200 [90m10ms - 2.64kb[0m
+[90mGET /asdfljkhalksdjfh [33m404 [90m4ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m1ms[0m
+[90mGET /js/404.js [36m304 [90m7ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nothing [33m404 [90m84ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m2ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /js/404.js [32m200 [90m36ms - 2.68kb[0m
+[90mGET /resources/userMusic/music_gervais.mp3 [33m404 [90m9ms - 209b[0m
+[90mGET /resources/userMusic/music.mp3 [33m404 [90m9ms - 209b[0m
+[90mGET /nothing [33m404 [90m8ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m1ms[0m
+[90mGET /js/404.js [36m304 [90m16ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m2ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nothing [33m404 [90m79ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /js/404.js [32m200 [90m27ms - 1.99kb[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nothing [33m404 [90m105ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /js/404.js [32m200 [90m27ms - 2.03kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /js/404.coffee [32m200 [90m2ms - 644b[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nothing [33m404 [90m105ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /js/404.js [32m200 [90m26ms - 2.03kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /nothing [33m404 [90m11ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m2ms[0m
+[90mGET /js/404.js [32m200 [90m16ms - 2.14kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m2ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nothing [33m404 [90m79ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m4ms[0m
+[90mGET /js/404.js [32m200 [90m29ms - 2.23kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /nothing [33m404 [90m14ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m2ms[0m
+[90mGET /js/404.js [36m304 [90m15ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [36m304 [90m132ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m2ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m1ms[0m
+[90mGET /css/settings.css [36m304 [90m3ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m3ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/jarvis.js [36m304 [90m130ms[0m
+[90mGET /js/script.js [36m304 [90m22ms[0m
+[90mGET /js/speech.js [36m304 [90m27ms[0m
+[90mGET /resources/fonts/Teio.ttf [36m304 [90m2ms[0m
+[90mGET /resources/fonts/fontawesome-webfont.woff?v=4.0.3 [36m304 [90m1ms[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [36m304 [90m0ms[0m
+[90mGET /resources/images/favicon.png [36m304 [90m0ms[0m
+[90mGET /nothing [33m404 [90m11ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m1ms[0m
+[90mGET /js/404.js [32m200 [90m13ms - 2.48kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nothing [33m404 [90m105ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /js/404.js [32m200 [90m29ms - 2.7kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /nothing [33m404 [90m12ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /js/404.js [32m200 [90m14ms - 2.14kb[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nothing [33m404 [90m80ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /js/404.js [36m304 [90m27ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /nothing [33m404 [90m11ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /js/404.js [36m304 [90m15ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nothing [33m404 [90m79ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m2ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /js/404.js [32m200 [90m29ms - 2.53kb[0m
+[90mGET /nothing [33m404 [90m12ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /js/404.js [36m304 [90m16ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nothing [33m404 [90m105ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m3ms[0m
+[90mGET /js/404.js [32m200 [90m28ms - 2.53kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m2ms[0m
+[90mGET /nothing [33m404 [90m11ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m1ms[0m
+[90mGET /js/404.js [36m304 [90m15ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /nothing [33m404 [90m105ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m2ms[0m
+[90mGET /js/404.js [32m200 [90m28ms - 2.51kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m39ms[0m
+[90mGET /lib/font-awesome.min.css [36m304 [90m2ms[0m
+[90mGET /lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /css/main.css [36m304 [90m2ms[0m
+[90mGET /css/settings.css [36m304 [90m1ms[0m
+[90mGET /lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /js/jarvis.js [36m304 [90m104ms[0m
+[90mGET /js/script.js [36m304 [90m28ms[0m
+[90mGET /js/speech.js [36m304 [90m33ms[0m
+[90mGET /resources/fonts/Teio.ttf [36m304 [90m1ms[0m
+[90mGET /resources/fonts/fontawesome-webfont.woff?v=4.0.3 [36m304 [90m1ms[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [36m304 [90m2ms[0m
+[90mGET /nothing [33m404 [90m8ms - 209b[0m
+[90mGET /css/404.css [36m304 [90m0ms[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[90mGET /js/404.js [36m304 [90m11ms[0m
+[0;45m    hotnode [m [0;35mwebroot/404.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35mwebroot/index.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35mwebroot/js/404.coffee has been deleted[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+[0;45m    hotnode [m [0;35mwebroot/js/speech.coffee has been deleted[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+[0;45m    hotnode [m [0;35mwebroot/js/jarvis.coffee has been deleted[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+[0;45m    hotnode [m [0;35mwebroot/js/script.coffee has been deleted[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m131ms - 2.58kb[0m
+[90mGET /resources/lib/font-awesome.min.css [32m200 [90m13ms - 17.4kb[0m
+[90mGET /resources/css/main.css [32m200 [90m11ms - 5.39kb[0m
+[90mGET /resources/lib/dropzone.css [32m200 [90m10ms - 11.33kb[0m
+[90mGET /resources/css/settings.css [32m200 [90m10ms - 632b[0m
+[90mGET /resources/lib/dropzone.js [32m200 [90m12ms - 60.02kb[0m
+[90mGET /resources/lib/jquery.min.js [32m200 [90m98ms - 94.12kb[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m131ms - 15.19kb[0m
+[90mGET /resources/lib/annyang.js [32m200 [90m133ms - 2.57kb[0m
+[90mGET /resources/js/script.js [32m200 [90m26ms - 4.56kb[0m
+[90mGET /resources/js/speech.js [32m200 [90m31ms - 2.01kb[0m
+[90mGET /resources/resources/fonts/fontawesome-webfont.woff?v=4.0.3 [33m404 [90m11ms - 229b[0m
+[90mGET /resources/resources/fonts/Teio.ttf [33m404 [90m13ms - 229b[0m
+[90mGET /resources/resources/fonts/Digital%20Tech.otf [33m404 [90m6ms - 229b[0m
+[90mGET /resources/fonts/fontawesome-webfont.ttf?v=4.0.3 [32m200 [90m2ms - 78.76kb[0m
+[90mGET / [36m304 [90m22ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m0ms[0m
+[90mGET /resources/css/main.css [32m200 [90m3ms - 5.38kb[0m
+[90mGET /resources/css/settings.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m57ms[0m
+[90mGET /resources/js/script.js [36m304 [90m23ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m33ms[0m
+[90mGET /resources/fonts/Teio.ttf [36m304 [90m1ms[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [36m304 [90m1ms[0m
+[90mGET /nothing [33m404 [90m7ms - 229b[0m
+[90mGET /resources/css/404.css [32m200 [90m1ms - 200b[0m
+[90mGET /resources/js/404.js [32m200 [90m9ms - 2.51kb[0m
+[90mGET /resources/images/hal.svg [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/index.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m105ms - 2.63kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [32m200 [90m2ms - 1.75kb[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m125ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m10ms[0m
+[90mGET /resources/js/script.js [32m200 [90m31ms - 4.6kb[0m
+[90mGET /resources/lib/swearWords.json [32m200 [90m1ms - 5.2kb[0m
+[90mGET / [36m304 [90m24ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m2ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m59ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m6ms[0m
+[90mGET /resources/js/script.js [32m200 [90m30ms - 4.77kb[0m
+[90mGET /resources/images/favicon.png [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m21ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m0ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m0ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m0ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m55ms[0m
+[90mGET /resources/js/script.js [32m200 [90m14ms - 4.77kb[0m
+[90mGET /resources/js/speech.js [36m304 [90m19ms[0m
+[90mGET /resources/images/favicon.png [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m17ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m0ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/css/main.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m0ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m44ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m13ms[0m
+[90mGET /resources/js/script.js [32m200 [90m12ms - 4.8kb[0m
+[90mGET /resources/images/favicon.png [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET / [36m304 [90m15ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m0ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m0ms[0m
+[90mGET /resources/css/main.css [36m304 [90m0ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m37ms - 15.25kb[0m
+[90mGET /resources/js/script.js [32m200 [90m15ms - 4.68kb[0m
+[90mGET /resources/js/speech.js [36m304 [90m23ms[0m
+[90mGET /resources/images/favicon.png [36m304 [90m0ms[0m
+[90mGET / [36m304 [90m13ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m0ms[0m
+[90mGET /resources/css/main.css [36m304 [90m0ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m0ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m0ms[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m47ms - 15.27kb[0m
+[90mGET /resources/js/script.js [36m304 [90m14ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m5ms[0m
+[90mGET /resources/images/favicon.png [36m304 [90m0ms[0m
+[90mGET /resources/js/jarvis.coffee [32m200 [90m2ms - 5.19kb[0m
+[90mGET / [36m304 [90m22ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m0ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/css/main.css [36m304 [90m2ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m0ms[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m37ms - 15.42kb[0m
+[90mGET /resources/js/script.js [32m200 [90m20ms - 4.35kb[0m
+[90mGET /resources/js/speech.js [36m304 [90m6ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m14ms - 2.63kb[0m
+[90mGET /resources/lib/font-awesome.min.css [32m200 [90m1ms - 17.4kb[0m
+[90mGET /resources/lib/dropzone.css [32m200 [90m1ms - 11.33kb[0m
+[90mGET /resources/css/main.css [32m200 [90m2ms - 5.38kb[0m
+[90mGET /resources/css/settings.css [32m200 [90m0ms - 632b[0m
+[90mGET /resources/lib/dropzone.js [32m200 [90m5ms - 60.02kb[0m
+[90mGET /resources/lib/annyang.js [32m200 [90m1ms - 2.57kb[0m
+[90mGET /resources/lib/jquery.min.js [32m200 [90m9ms - 94.12kb[0m
+[90mGET /resources/lib/profanity.js [32m200 [90m1ms - 1.75kb[0m
+[90mGET /resources/js/script.js [32m200 [90m12ms - 4.35kb[0m
+[90mGET /resources/js/speech.js [32m200 [90m17ms - 2.01kb[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m63ms - 15.42kb[0m
+[90mGET /resources/fonts/Teio.ttf [32m200 [90m1ms - 23.79kb[0m
+[90mGET /resources/resources/fonts/fontawesome-webfont.woff?v=4.0.3 [33m404 [90m9ms - 229b[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [32m200 [90m1ms - 9.93kb[0m
+[90mGET /resources/lib/swearWords.json [32m200 [90m1ms - 5.2kb[0m
+[90mGET /resources/fonts/fontawesome-webfont.ttf?v=4.0.3 [32m200 [90m2ms - 78.76kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/userMusic/rasta_tan.mp3 [33m404 [90m3ms - 229b[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m3ms[0m
+[90mGET /resources/userMusic/ra_ra_rasputin.mp3 [32m206 [90m147055ms - 7.85mb[0m
+[90mGET /robots.txt [33m404 [90m4ms - 229b[0m
+[90mGET / [32m200 [90m25ms - 2.63kb[0m
+[90mGET /css/main.css [33m404 [90m7ms - 229b[0m
+[90mGET /lib/font-awesome.min.css [33m404 [90m6ms - 229b[0m
+[90mGET /lib/dropzone.css [33m404 [90m5ms - 229b[0m
+[90mGET /resources/lib/dropzone.css [32m200 [90m1ms - 11.33kb[0m
+[90mGET /resources/css/main.css [32m200 [90m1ms - 5.38kb[0m
+[90mGET /resources/lib/font-awesome.min.css [32m200 [90m1ms - 17.4kb[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m70ms - 15.42kb[0m
+[90mGET /resources/css/settings.css [32m200 [90m1ms - 632b[0m
+[90mGET /resources/lib/profanity.js [32m200 [90m3ms - 1.75kb[0m
+[90mGET /resources/lib/annyang.js [32m200 [90m1ms - 2.57kb[0m
+[90mGET /resources/js/script.js [32m200 [90m11ms - 4.35kb[0m
+[90mGET /resources/js/speech.js [32m200 [90m5ms - 2.01kb[0m
+[90mGET /resources/lib/dropzone.js [32m200 [90m1ms - 60.02kb[0m
+[90mGET /robots.txt [33m404 [90m5ms - 229b[0m
+[90mGET /resources/lib/jquery.min.js [32m200 [90m97ms - 94.12kb[0m
+[90mGET /resources/lib/swearWords.json [32m200 [90m1ms - 5.2kb[0m
+[90mGET /resources/resources/fonts/fontawesome-webfont.woff?v=4.0.3 [33m404 [90m4ms - 229b[0m
+[90mGET /resources/fonts/fontawesome-webfont.ttf?v=4.0.3 [32m200 [90m96ms - 78.76kb[0m
+[90mGET /resources/resources/fonts/fontawesome-webfont.svg?v=4.0.3 [33m404 [90m3ms - 229b[0m
+[90mGET /robots.txt [33m404 [90m4ms - 229b[0m
+[90mGET /robots.txt [33m404 [90m4ms - 229b[0m
+[90mGET / [32m200 [90m15ms - 2.63kb[0m
+[90mGET / [32m200 [90m13ms - 2.63kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m0ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m36ms[0m
+[90mGET /resources/js/script.js [36m304 [90m14ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m17ms[0m
+[90mGET /resources/fonts/Teio.ttf [36m304 [90m0ms[0m
+[90mGET /resources/resources/fonts/fontawesome-webfont.woff?v=4.0.3 [33m404 [90m4ms - 229b[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/fonts/fontawesome-webfont.ttf?v=4.0.3 [36m304 [90m0ms[0m
+[90mGET / [36m304 [90m12ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m0ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m46ms[0m
+[90mGET /resources/js/script.js [36m304 [90m11ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m4ms[0m
+[90mGET /resources/fonts/Teio.ttf [36m304 [90m0ms[0m
+[90mGET /resources/resources/fonts/fontawesome-webfont.woff?v=4.0.3 [33m404 [90m4ms - 229b[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/fonts/fontawesome-webfont.ttf?v=4.0.3 [36m304 [90m2ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m12ms - 2.63kb[0m
+[90mGET /resources/lib/font-awesome.min.css [32m200 [90m2ms - 17.4kb[0m
+[90mGET /resources/css/settings.css [32m200 [90m1ms - 632b[0m
+[90mGET /resources/css/main.css [32m200 [90m1ms - 5.38kb[0m
+[90mGET /resources/lib/dropzone.css [32m200 [90m1ms - 11.33kb[0m
+[90mGET /resources/lib/dropzone.js [32m200 [90m2ms - 60.02kb[0m
+[90mGET /resources/lib/annyang.js [32m200 [90m1ms - 2.57kb[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m44ms - 15.42kb[0m
+[90mGET /resources/js/speech.js [32m200 [90m6ms - 2.01kb[0m
+[90mGET /resources/lib/jquery.min.js [32m200 [90m3ms - 94.12kb[0m
+[90mGET /resources/lib/profanity.js [32m200 [90m1ms - 1.75kb[0m
+[90mGET /resources/js/script.js [32m200 [90m11ms - 4.35kb[0m
+[90mGET /resources/fonts/Teio.ttf [32m200 [90m1ms - 23.79kb[0m
+[90mGET /resources/resources/fonts/fontawesome-webfont.woff?v=4.0.3 [33m404 [90m4ms - 229b[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [32m200 [90m1ms - 9.93kb[0m
+[90mGET /resources/lib/swearWords.json [32m200 [90m2ms - 5.2kb[0m
+[90mGET /resources/fonts/fontawesome-webfont.ttf?v=4.0.3 [32m200 [90m2ms - 78.76kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /robots.txt [33m404 [90m4ms - 229b[0m
+[90mGET / [32m200 [90m19ms - 2.63kb[0m
+[90mGET /lib/font-awesome.min.css [33m404 [90m4ms - 229b[0m
+[90mGET /lib/dropzone.css [33m404 [90m4ms - 229b[0m
+[90mGET /css/main.css [33m404 [90m3ms - 229b[0m
+[90mGET /resources/lib/font-awesome.min.css [32m200 [90m1ms - 17.4kb[0m
+[90mGET /resources/css/main.css [32m200 [90m1ms - 5.38kb[0m
+[90mGET /resources/lib/jquery.min.js [32m200 [90m2ms - 94.12kb[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m34ms - 15.42kb[0m
+[90mGET /resources/lib/dropzone.js [32m200 [90m1ms - 60.02kb[0m
+[90mGET /resources/lib/profanity.js [32m200 [90m1ms - 1.75kb[0m
+[90mGET /resources/lib/dropzone.css [32m200 [90m1ms - 11.33kb[0m
+[90mGET /resources/js/script.js [32m200 [90m12ms - 4.35kb[0m
+[90mGET /resources/js/speech.js [32m200 [90m12ms - 2.01kb[0m
+[90mGET /resources/lib/annyang.js [32m200 [90m1ms - 2.57kb[0m
+[90mGET /resources/css/settings.css [32m200 [90m1ms - 632b[0m
+[90mGET /resources/lib/swearWords.json [32m200 [90m2ms - 5.2kb[0m
+[90mGET /resources/resources/fonts/fontawesome-webfont.woff?v=4.0.3 [33m404 [90m3ms - 229b[0m
+[90mGET /resources/fonts/fontawesome-webfont.ttf?v=4.0.3 [32m200 [90m69ms - 78.76kb[0m
+[90mGET /resources/resources/fonts/fontawesome-webfont.svg?v=4.0.3 [33m404 [90m9ms - 229b[0m
+[90mGET / [32m200 [90m11ms - 2.63kb[0m
+[90mGET /resources/lib/font-awesome.min.css [32m200 [90m1ms - 17.4kb[0m
+[90mGET /resources/lib/dropzone.css [32m200 [90m1ms - 11.33kb[0m
+[90mGET /resources/css/settings.css [32m200 [90m4ms - 632b[0m
+[90mGET /resources/css/main.css [32m200 [90m1ms - 5.38kb[0m
+[90mGET /resources/lib/dropzone.js [32m200 [90m2ms - 60.02kb[0m
+[90mGET /resources/lib/jquery.min.js [32m200 [90m7ms - 94.12kb[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m40ms - 15.42kb[0m
+[90mGET /resources/js/speech.js [32m200 [90m6ms - 2.01kb[0m
+[90mGET /resources/lib/annyang.js [32m200 [90m8ms - 2.57kb[0m
+[90mGET /resources/lib/profanity.js [32m200 [90m1ms - 1.75kb[0m
+[90mGET /resources/js/script.js [32m200 [90m10ms - 4.35kb[0m
+[90mGET /resources/fonts/Teio.ttf [32m200 [90m1ms - 23.79kb[0m
+[90mGET /resources/resources/fonts/fontawesome-webfont.woff?v=4.0.3 [33m404 [90m7ms - 229b[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [32m200 [90m1ms - 9.93kb[0m
+[90mGET /resources/lib/swearWords.json [32m200 [90m1ms - 5.2kb[0m
+[90mGET /resources/fonts/fontawesome-webfont.ttf?v=4.0.3 [32m200 [90m2ms - 78.76kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/userMusic/roster_tan.mp3 [33m404 [90m5ms - 229b[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/userMusic/to_tan.mp3 [33m404 [90m3ms - 229b[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/userMusic/dead_giveaway.mp3 [32m206 [90m391ms - 3.45mb[0m
+[90mGET / [32m200 [90m21ms - 2.63kb[0m
+[90mGET /resources/lib/font-awesome.min.css [32m200 [90m2ms - 17.4kb[0m
+[90mGET /resources/lib/dropzone.css [32m200 [90m1ms - 11.33kb[0m
+[90mGET /resources/css/main.css [32m200 [90m1ms - 5.38kb[0m
+[90mGET /resources/css/settings.css [32m200 [90m1ms - 632b[0m
+[90mGET /resources/lib/dropzone.js [32m200 [90m2ms - 60.02kb[0m
+[90mGET /resources/lib/jquery.min.js [32m200 [90m4ms - 94.12kb[0m
+[90mGET /resources/lib/annyang.js [32m200 [90m3ms - 2.57kb[0m
+[90mGET /resources/lib/profanity.js [32m200 [90m1ms - 1.75kb[0m
+[90mGET /resources/js/speech.js [32m200 [90m9ms - 2.01kb[0m
+[90mGET /resources/js/script.js [32m200 [90m20ms - 4.35kb[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m67ms - 15.42kb[0m
+[90mGET /resources/lib/swearWords.json [32m200 [90m1ms - 5.2kb[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [32m200 [90m1ms - 9.93kb[0m
+[90mGET /resources/fonts/Teio.ttf [32m200 [90m2ms - 23.79kb[0m
+[90mGET /resources/resources/fonts/fontawesome-webfont.woff?v=4.0.3 [33m404 [90m7ms - 229b[0m
+[90mGET /resources/fonts/fontawesome-webfont.ttf?v=4.0.3 [32m200 [90m3ms - 78.76kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /robots.txt [33m404 [90m4ms - 229b[0m
+[90mGET /favicon.ico [33m404 [90m3ms - 229b[0m
+[90mGET /robots.txt [33m404 [90m3ms - 229b[0m
+[90mGET / [32m200 [90m12ms - 2.63kb[0m
+[90mGET /robots.txt [33m404 [90m3ms - 229b[0m
+[90mGET / [32m200 [90m13ms - 2.63kb[0m
+[90mGET / [32m200 [90m11ms - 2.63kb[0m
+[90mGET / [36m304 [90m10ms[0m
+[90mGET /resources/lib/font-awesome.min.css [32m200 [90m1ms - 17.4kb[0m
+[90mGET /resources/lib/dropzone.css [32m200 [90m1ms - 11.33kb[0m
+[90mGET /resources/css/main.css [32m200 [90m1ms - 5.38kb[0m
+[90mGET /resources/css/settings.css [32m200 [90m1ms - 632b[0m
+[90mGET /resources/lib/dropzone.js [32m200 [90m2ms - 60.02kb[0m
+[90mGET /resources/lib/annyang.js [32m200 [90m2ms - 2.57kb[0m
+[90mGET /resources/lib/profanity.js [32m200 [90m1ms - 1.75kb[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m36ms - 15.42kb[0m
+[90mGET /resources/lib/jquery.min.js [32m200 [90m52ms - 94.12kb[0m
+[90mGET /resources/js/script.js [32m200 [90m11ms - 4.35kb[0m
+[90mGET /resources/js/speech.js [32m200 [90m5ms - 2.01kb[0m
+[90mGET /resources/fonts/Teio.ttf [32m200 [90m2ms - 23.79kb[0m
+[90mGET /resources/resources/fonts/fontawesome-webfont.woff?v=4.0.3 [33m404 [90m4ms - 229b[0m
+[90mGET /resources/lib/swearWords.json [32m200 [90m1ms - 5.2kb[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [32m200 [90m1ms - 9.93kb[0m
+[90mGET /resources/fonts/fontawesome-webfont.ttf?v=4.0.3 [32m200 [90m2ms - 78.76kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/userMusic/symphony_number_5.mp3 [32m206 [90m30999ms - 6.83mb[0m
+[90mGET / [36m304 [90m10ms[0m
+[90mGET /resources/lib/font-awesome.min.css [32m200 [90m2ms - 17.4kb[0m
+[90mGET /resources/lib/dropzone.css [32m200 [90m2ms - 11.33kb[0m
+[90mGET /resources/css/main.css [32m200 [90m2ms - 5.38kb[0m
+[90mGET /resources/css/settings.css [32m200 [90m1ms - 632b[0m
+[90mGET /resources/lib/dropzone.js [32m200 [90m1ms - 60.02kb[0m
+[90mGET /resources/lib/jquery.min.js [32m200 [90m2ms - 94.12kb[0m
+[90mGET /resources/lib/annyang.js [32m200 [90m1ms - 2.57kb[0m
+[90mGET /resources/lib/profanity.js [32m200 [90m1ms - 1.75kb[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m42ms - 15.42kb[0m
+[90mGET /resources/js/speech.js [32m200 [90m9ms - 2.01kb[0m
+[90mGET /resources/js/script.js [32m200 [90m28ms - 4.35kb[0m
+[90mGET /resources/fonts/Teio.ttf [32m200 [90m1ms - 23.79kb[0m
+[90mGET /resources/resources/fonts/fontawesome-webfont.woff?v=4.0.3 [33m404 [90m7ms - 229b[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [32m200 [90m1ms - 9.93kb[0m
+[90mGET /resources/fonts/fontawesome-webfont.ttf?v=4.0.3 [32m200 [90m2ms - 78.76kb[0m
+[90mGET / [32m200 [90m21ms - 2.63kb[0m
+[90mGET / [32m200 [90m40ms - 2.63kb[0m
+[90mGET / [32m200 [90m11ms - 2.63kb[0m
+[90mGET / [32m200 [90m10ms - 2.63kb[0m
+[90mGET / [32m200 [90m10ms - 2.63kb[0m
+[90mGET / [32m200 [90m13ms - 2.63kb[0m
+[90mGET / [32m200 [90m10ms - 2.63kb[0m
+[90mGET / [32m200 [90m11ms - 2.63kb[0m
+[90mGET / [32m200 [90m10ms - 2.63kb[0m
+[90mGET / [32m200 [90m21ms - 2.63kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m0ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m0ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m0ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m0ms[0m
+[90mGET /resources/css/main.css [36m304 [90m0ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m0ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m37ms[0m
+[90mGET /resources/js/script.js [36m304 [90m47ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m5ms[0m
+[90mGET /resources/fonts/Teio.ttf [36m304 [90m0ms[0m
+[90mGET /resources/resources/fonts/fontawesome-webfont.woff?v=4.0.3 [33m404 [90m4ms - 229b[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/fonts/fontawesome-webfont.ttf?v=4.0.3 [36m304 [90m0ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /vtigercrm/ [33m404 [90m4ms - 229b[0m
+[90mGET /admin/config.php [33m404 [90m3ms - 229b[0m
+[90mGET /vtigercrm/ [33m404 [90m6ms - 229b[0m
+[90mGET / [36m304 [90m11ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m0ms[0m
+[90mGET /resources/css/main.css [36m304 [90m0ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m0ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m40ms[0m
+[90mGET /resources/js/script.js [36m304 [90m12ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m17ms[0m
+[90mGET /resources/fonts/Teio.ttf [36m304 [90m1ms[0m
+[90mGET /resources/resources/fonts/fontawesome-webfont.woff?v=4.0.3 [33m404 [90m4ms - 229b[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [36m304 [90m3ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/fonts/fontawesome-webfont.ttf?v=4.0.3 [36m304 [90m0ms[0m

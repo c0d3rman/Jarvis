@@ -26,29 +26,17 @@ app.use (req, res, next) ->
 	else
 		next()
 app.use coffeemiddleware src: "#{__dirname}/webroot"
-app.use busboy fileSize: 20 * 1024 * 1024
+app.use busboy()
 app.use servestatic "#{__dirname}/webroot"
 
 helpers = {}
-helpers["_#{f.slice 0, -7}"] = require "./include/#{f}" for f in fs.readdirSync('./include') when f.slice(-7) is ".coffee"
+helpers["_#{f.slice 0, -3}"] = require "./include/#{f}" for f in fs.readdirSync('./include') when f.slice(-3) is ".js"
 
 app.get '/', (req, res) ->
 	res.render 'index', empty: '', hardcode: helpers
-app.get '/resources/userMusic', (req, res) ->
-	fs.readdir "#{__dirname}/webroot/resources/userMusic", (err, files) ->
-		if err
-			res.writeHead 500, "Content-Type": "text/plain"
-			res.write "Internal error fetching music list"
-			res.end()
-			console.log err.message
-		else
-			res.writeHead 200, "Content-Type": "text/plain"
-			res.write "#{file}\n" for file in files
-			res.end()
 app.post '/upload', (req, res) ->
 	req.pipe req.busboy
 	req.busboy.on 'file', (fieldname, file, filename) ->
-		filename = filename.replace(RegExp(' ', 'g'), '_').replace(/[^A-Z0-9._-]/ig, '').toLowerCase()
 		filepath = "#{__dirname}/webroot/resources/userMusic/#{filename}"
 		if filepath isnt path.join '/', filepath
 			res.writeHead 403, "Content-Type": "text/plain"
@@ -58,18 +46,11 @@ app.post '/upload', (req, res) ->
 			fstream = fs.createWriteStream filepath
 			file.pipe fstream
 			fstream.on 'close', ->
-				#fs.chownSync filepath, 33, 33
-				#fs.chmodSync filepath, 700
+				fs.chownSync filepath, 'www-data, 'www-data'
+				fs.chmodSync filepath, 
 				res.writeHead 200
 				res.write "File uploaded successfuly"
 				res.end()
-app.get '*', (req, res) ->
-	res.status 404
-	if req.accepts 'html'
-		res.render '404', empty: '', hardcode: helpers
-	else
-		res.write '404 not found'
-		res.end()
 
 options =
 	key: fs.readFileSync "#{__dirname}/certs/server.key"
