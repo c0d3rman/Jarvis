@@ -1635,3 +1635,1257 @@ Jarvis initialized
 [90mGET /resources/fonts/Digital%20Tech.otf [36m304 [90m3ms[0m
 [90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
 [90mGET /resources/fonts/fontawesome-webfont.ttf?v=4.0.3 [36m304 [90m0ms[0m
+[0;45m    hotnode [m [0;35minclude/settings.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35minclude/settings.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m106ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /resources/css/main.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m0ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m4ms[0m
+[90mGET /resources/css/settings.css [32m200 [90m7ms - 860b[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m128ms[0m
+[90mGET /resources/js/script.js [36m304 [90m22ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m28ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/images/favicon.png [36m304 [90m0ms[0m
+[0;45m    hotnode [m [0;35minclude/settings.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m107ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m5ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m4ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/css/main.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m31ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m32ms[0m
+[90mGET /resources/js/script.js [36m304 [90m65ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m169ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/images/favicon.png [36m304 [90m0ms[0m
+[90mGET / [36m304 [90m24ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m0ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [32m200 [90m2ms - 907b[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m0ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m58ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m7ms[0m
+[90mGET /resources/js/script.js [36m304 [90m26ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/images/favicon.png [36m304 [90m0ms[0m
+[90mGET / [36m304 [90m23ms[0m
+[90mGET /resources/css/main.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m4ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m0ms[0m
+[90mGET /resources/css/settings.css [32m200 [90m7ms - 995b[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m47ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m7ms[0m
+[90mGET /resources/js/script.js [36m304 [90m26ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/images/favicon.png [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m18ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [32m200 [90m1ms - 989b[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /resources/js/script.js [36m304 [90m15ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m13ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m55ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m60ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/images/favicon.png [36m304 [90m0ms[0m
+[90mGET / [36m304 [90m16ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m0ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m0ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [32m200 [90m2ms - 990b[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m2ms[0m
+[90mGET /resources/js/script.js [36m304 [90m14ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m59ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m5ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/images/favicon.png [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m13ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m0ms[0m
+[90mGET /resources/css/main.css [36m304 [90m0ms[0m
+[90mGET /resources/css/settings.css [32m200 [90m2ms - 1kb[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m0ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/js/script.js [36m304 [90m15ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m51ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m5ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m24ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [32m200 [90m2ms - 17.4kb[0m
+[90mGET /resources/css/main.css [32m200 [90m1ms - 5.38kb[0m
+[90mGET /resources/css/settings.css [32m200 [90m1ms - 1.01kb[0m
+[90mGET /resources/lib/dropzone.css [32m200 [90m5ms - 11.33kb[0m
+[90mGET /resources/lib/profanity.js [32m200 [90m4ms - 1.75kb[0m
+[90mGET /resources/lib/dropzone.js [32m200 [90m1ms - 60.02kb[0m
+[90mGET /resources/js/speech.js [32m200 [90m9ms - 2.01kb[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m52ms - 15.42kb[0m
+[90mGET /resources/js/script.js [32m200 [90m18ms - 4.35kb[0m
+[90mGET /resources/lib/annyang.js [32m200 [90m18ms - 2.57kb[0m
+[90mGET /resources/lib/jquery.min.js [32m200 [90m20ms - 94.12kb[0m
+[90mGET /resources/fonts/Teio.ttf [32m200 [90m1ms - 23.79kb[0m
+[90mGET /resources/resources/fonts/fontawesome-webfont.woff?v=4.0.3 [33m404 [90m7ms - 229b[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [32m200 [90m1ms - 9.93kb[0m
+[90mGET /resources/lib/swearWords.json [32m200 [90m1ms - 5.2kb[0m
+[90mGET /resources/fonts/fontawesome-webfont.ttf?v=4.0.3 [32m200 [90m2ms - 78.76kb[0m
+[90mGET / [32m200 [90m13ms - 2.77kb[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [32m200 [90m5ms - 1.03kb[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m3ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m2ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m47ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m7ms[0m
+[90mGET /resources/js/script.js [36m304 [90m27ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m1ms - 1.07kb[0m
+[90mGET / [32m200 [90m25ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m2ms[0m
+[90mGET /resources/css/main.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [32m200 [90m4ms - 1.03kb[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m4ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m3ms[0m
+[90mGET /resources/js/script.js [36m304 [90m38ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m71ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m8ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m14ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m0ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m0ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /resources/css/settings.css [32m200 [90m7ms - 1.03kb[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m37ms[0m
+[90mGET /resources/js/script.js [36m304 [90m49ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m17ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m13ms - 2.77kb[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [32m200 [90m1ms - 1.03kb[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m5ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m0ms[0m
+[90mGET /resources/js/script.js [36m304 [90m14ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m54ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m16ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m0ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m0ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [32m200 [90m3ms - 1.03kb[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m2ms[0m
+[90mGET /resources/js/script.js [36m304 [90m12ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m19ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m53ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m12ms - 2.77kb[0m
+[90mGET /resources/css/main.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m0ms[0m
+[90mGET /resources/css/settings.css [32m200 [90m2ms - 1.05kb[0m
+[90mGET /resources/lib/dropzone.js [32m200 [90m2ms - 60.02kb[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m0ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m0ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m43ms[0m
+[90mGET /resources/js/script.js [36m304 [90m11ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m14ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m12ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /resources/css/settings.css [32m200 [90m3ms - 1.07kb[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m3ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m0ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m33ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m7ms[0m
+[90mGET /resources/js/script.js [36m304 [90m19ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m11ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [32m200 [90m10ms - 1.07kb[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m9ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m40ms[0m
+[90mGET /resources/js/script.js [36m304 [90m51ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m4ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m1ms - 1.07kb[0m
+[90mGET / [32m200 [90m19ms - 2.77kb[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m2ms[0m
+[90mGET /resources/css/main.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /resources/css/settings.css [32m200 [90m4ms - 1.09kb[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/js/script.js [36m304 [90m12ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m34ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m39ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m1ms - 1.07kb[0m
+[0;45m    hotnode [m [0;35mNew file: webroot/resources/js/404.coffee[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+[0;45m    hotnode [m [0;35mNew file: webroot/resources/js/jarvis.coffee[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+[0;45m    hotnode [m [0;35mNew file: webroot/resources/js/script.coffee[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+[0;45m    hotnode [m [0;35mNew file: webroot/resources/js/settings.coffee[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+[0;45m    hotnode [m [0;35mNew file: webroot/resources/js/speech.coffee[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35mwebroot/resources/js/settings.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35mwebroot/resources/js/settings.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m105ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m4ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /resources/css/main.css [36m304 [90m4ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m3ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m31ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m3ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m3ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m109ms[0m
+[90mGET /resources/js/script.js [36m304 [90m130ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m2ms - 1.07kb[0m
+[0;45m    hotnode [m [0;35minclude/settings.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m106ms - 2.8kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m4ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [32m200 [90m5ms - 1.1kb[0m
+[90mGET /resources/js/script.js [36m304 [90m50ms[0m
+[90mGET /resources/css/main.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m113ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m110ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m123ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m11ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m12ms[0m
+[90mGET /settings.coffee [33m404 [90m20ms - 229b[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m1ms - 1.07kb[0m
+[90mGET / [32m200 [90m25ms - 2.8kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m3ms[0m
+[90mGET /resources/css/main.css [36m304 [90m2ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m59ms[0m
+[90mGET /resources/js/script.js [36m304 [90m80ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m90ms[0m
+[90mGET /settings.coffee [33m404 [90m92ms - 229b[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35minclude/settings.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m104ms - 2.82kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m3ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m130ms[0m
+[90mGET /resources/css/main.css [36m304 [90m3ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m3ms[0m
+[90mGET /resources/js/script.js [36m304 [90m25ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m32ms[0m
+[90mGET /resources/js/settings.coffee [32m200 [90m30ms - 112b[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m3ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m3ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/js/settings.coffee [32m200 [90m2ms - 112b[0m
+[90mGET / [32m200 [90m24ms - 2.82kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m4ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m0ms[0m
+[90mGET /resources/js/settings.coffee [36m304 [90m1ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m61ms[0m
+[90mGET /resources/js/script.js [36m304 [90m81ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m90ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35minclude/settings.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m104ms - 2.81kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m7ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m4ms[0m
+[90mGET /resources/css/main.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m132ms[0m
+[90mGET /resources/js/script.js [36m304 [90m150ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/js/settings.js [32m200 [90m6ms - 746b[0m
+[90mGET /resources/js/speech.js [36m304 [90m10ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m25ms - 2.81kb[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m2ms[0m
+[90mGET /resources/css/main.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m3ms[0m
+[90mGET /resources/css/settings.css [32m200 [90m4ms - 1.1kb[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m17ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m16ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m13ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m73ms[0m
+[90mGET /resources/js/script.js [36m304 [90m92ms[0m
+[90mGET /resources/js/settings.js [36m304 [90m26ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m18ms - 2.81kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m0ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /resources/css/main.css [36m304 [90m2ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m1ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m56ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m7ms[0m
+[90mGET /resources/js/script.js [36m304 [90m12ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/js/settings.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/js/settings.coffee [32m200 [90m2ms - 112b[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/settings.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m105ms - 2.81kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m4ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m128ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m4ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /resources/js/script.js [36m304 [90m21ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m28ms[0m
+[90mGET /resources/js/settings.js [32m200 [90m35ms - 1.01kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/settings.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m103ms - 2.81kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m2ms[0m
+[90mGET /resources/css/main.css [36m304 [90m0ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m5ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m3ms[0m
+[90mGET /resources/js/script.js [36m304 [90m46ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m6ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m3ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m19ms[0m
+[90mGET /resources/js/settings.js [32m200 [90m20ms - 625b[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m120ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m25ms - 2.81kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m4ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /resources/css/main.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m4ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/js/script.js [36m304 [90m24ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m68ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m75ms[0m
+[90mGET /resources/js/settings.js [32m200 [90m7ms - 793b[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/settings.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35mwebroot/resources/js/settings.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m106ms - 2.81kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m3ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m132ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m2ms[0m
+[90mGET /resources/js/settings.js [32m200 [90m7ms - 735b[0m
+[90mGET /resources/js/speech.js [36m304 [90m8ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /resources/js/script.js [36m304 [90m21ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m2ms[0m
+[90mGET / [32m200 [90m25ms - 2.81kb[0m
+[90mGET /resources/css/settings.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m2ms[0m
+[90mGET /resources/css/main.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m2ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m17ms[0m
+[90mGET /resources/js/settings.js [32m200 [90m16ms - 771b[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m65ms[0m
+[90mGET /resources/js/script.js [36m304 [90m90ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/settings.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m104ms - 2.81kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m6ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [32m200 [90m4ms - 1.11kb[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /resources/js/settings.js [36m304 [90m23ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m132ms[0m
+[90mGET /resources/js/script.js [36m304 [90m149ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m156ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m25ms - 2.81kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m4ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m3ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [32m200 [90m7ms - 1.12kb[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m3ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m0ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m2ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m60ms[0m
+[90mGET /resources/js/script.js [36m304 [90m76ms[0m
+[90mGET /resources/js/settings.js [36m304 [90m78ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m87ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[0;45m    hotnode [m [0;35minclude/settings.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m105ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m6ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m6ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m0ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m32ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m1ms[0m
+[90mGET /resources/css/main.css [36m304 [90m0ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m112ms[0m
+[90mGET /resources/js/script.js [36m304 [90m134ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m24ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/js/jarvis.coffee [32m200 [90m4ms - 5.25kb[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m105ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m3ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m2ms[0m
+[90mGET /resources/js/script.js [36m304 [90m50ms[0m
+[90mGET /resources/css/main.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.js [32m200 [90m5ms - 60.02kb[0m
+[90mGET /resources/js/speech.js [36m304 [90m13ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m106ms - 16.07kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m2ms - 1.07kb[0m
+[90mGET /resources/js/jarvis.coffee [32m200 [90m1ms - 5.39kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/userMusic/dead_giveaway.mp3 [32m206 [90m414ms - 3.45mb[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m105ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m4ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m3ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m2ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m31ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/js/script.js [36m304 [90m34ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m2ms[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m109ms - 16.08kb[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m4ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m3ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m2ms - 1.07kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m2ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m105ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m3ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m2ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m2ms[0m
+[90mGET /resources/js/script.js [36m304 [90m48ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m15ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m14ms[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m103ms - 16.07kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m4ms - 1.07kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /resources/lib/swearWords.json [32m200 [90m7ms - 5.2kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m2ms[0m
+[90mGET /robots.txt [33m404 [90m76ms - 229b[0m
+[90mGET /robots.txt [33m404 [90m6ms - 229b[0m
+[90mGET / [32m200 [90m40ms - 2.77kb[0m
+[90mGET /robots.txt [33m404 [90m8ms - 229b[0m
+[90mGET /robots.txt [33m404 [90m8ms - 229b[0m
+[90mGET / [32m200 [90m28ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [32m200 [90m3ms - 17.4kb[0m
+[90mGET /resources/css/main.css [32m200 [90m1ms - 5.38kb[0m
+[90mGET /resources/css/settings.css [32m200 [90m3ms - 1.12kb[0m
+[90mGET /resources/lib/dropzone.css [32m200 [90m1ms - 11.33kb[0m
+[90mGET / [32m200 [90m39ms - 2.77kb[0m
+[90mGET / [32m200 [90m17ms - 2.77kb[0m
+[90mGET / [32m200 [90m16ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [32m200 [90m3ms - 17.4kb[0m
+[90mGET /resources/lib/dropzone.css [32m200 [90m4ms - 11.33kb[0m
+[90mGET /resources/lib/dropzone.js [32m200 [90m3ms - 60.02kb[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m94ms - 16.07kb[0m
+[90mGET /resources/css/main.css [32m200 [90m2ms - 5.38kb[0m
+[90mGET /resources/lib/jquery.min.js [32m200 [90m7ms - 94.12kb[0m
+[90mGET /resources/js/script.js [32m200 [90m25ms - 4.35kb[0m
+[90mGET /resources/js/speech.js [32m200 [90m6ms - 2.01kb[0m
+[90mGET /resources/css/settings.css [32m200 [90m3ms - 1.12kb[0m
+[90mGET /resources/lib/annyang.js [32m200 [90m5ms - 2.57kb[0m
+[90mGET /resources/lib/profanity.js [32m200 [90m6ms - 1.75kb[0m
+[90mGET /resources/fonts/Teio.ttf [32m200 [90m3ms - 23.79kb[0m
+[90mGET /resources/resources/fonts/fontawesome-webfont.woff?v=4.0.3 [33m404 [90m6ms - 229b[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [32m200 [90m1ms - 9.93kb[0m
+[90mGET /resources/lib/swearWords.json [32m200 [90m2ms - 5.2kb[0m
+[90mGET /resources/fonts/fontawesome-webfont.ttf?v=4.0.3 [32m200 [90m2ms - 78.76kb[0m
+[90mGET /resources/userMusic [36m303 [90m1ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m2ms[0m
+[90mGET /favicon.ico [33m404 [90m5ms - 229b[0m
+[90mGET /resources/ [33m404 [90m8ms - 229b[0m
+[90mGET /resources/css/404.css [32m200 [90m1ms - 200b[0m
+[90mGET /resources/js/404.js [32m200 [90m11ms - 2.51kb[0m
+[90mGET /resources/images/hal.svg [32m200 [90m1ms - 13.63kb[0m
+[90mGET /resources/userMusic/ [32m200 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m105ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [32m200 [90m6ms - 17.4kb[0m
+[90mGET /resources/lib/dropzone.css [32m200 [90m7ms - 11.33kb[0m
+[90mGET /resources/css/main.css [32m200 [90m6ms - 5.38kb[0m
+[90mGET /resources/css/settings.css [32m200 [90m5ms - 1.12kb[0m
+[0;31m  [90mCOFFEE SyntaxError :[0m [36mreserved word "function"[0m
+[m
+[0;31mjarvis.coffee:96:16: error: reserved word "function"
+					//shuffle function from https://gist.github.com/ddgromit/859699
+               ^
+[m
+[90mGET /resources/js/jarvis.js [31m500 [90m23ms - 148b[0m
+[90mGET /resources/js/script.js [32m200 [90m67ms - 4.35kb[0m
+[90mGET /resources/lib/profanity.js [32m200 [90m69ms - 1.75kb[0m
+[90mGET /resources/js/speech.js [32m200 [90m17ms - 2.01kb[0m
+[90mGET /resources/lib/annyang.js [32m200 [90m17ms - 2.57kb[0m
+[90mGET /resources/lib/dropzone.js [32m200 [90m19ms - 60.02kb[0m
+[90mGET /resources/lib/jquery.min.js [32m200 [90m25ms - 94.12kb[0m
+[90mGET /resources/fonts/Teio.ttf [32m200 [90m4ms - 23.79kb[0m
+[90mGET /resources/resources/fonts/fontawesome-webfont.woff?v=4.0.3 [33m404 [90m13ms - 229b[0m
+[90mGET /resources/fonts/fontawesome-webfont.ttf?v=4.0.3 [32m200 [90m3ms - 78.76kb[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [32m200 [90m2ms - 9.93kb[0m
+[90mGET / [32m200 [90m52ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m3ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m3ms[0m
+[90mGET /resources/css/main.css [36m304 [90m4ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m6ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m4ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /resources/js/script.js [36m304 [90m17ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m17ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m9ms[0m
+[0;31m  [90mCOFFEE SyntaxError :[0m [36mreserved word "function"[0m
+[m
+[0;31mjarvis.coffee:96:16: error: reserved word "function"
+					//shuffle function from https://gist.github.com/ddgromit/859699
+               ^
+[m
+[90mGET /resources/js/jarvis.js [31m500 [90m19ms - 148b[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m104ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/css/main.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m5ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m3ms[0m
+[0;31m  [90mCOFFEE SyntaxError :[0m [36munexpected //[0m
+[m
+[0;31mjarvis.coffee:96:6: error: unexpected //
+					//shuffle from https://gist.github.com/ddgromit/859699
+     ^^
+[m
+[90mGET /resources/js/jarvis.js [31m500 [90m78ms - 108b[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m3ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m3ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m46ms[0m
+[90mGET /resources/js/script.js [36m304 [90m20ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m24ms - 2.77kb[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m4ms[0m
+[90mGET /resources/css/main.css [36m304 [90m4ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/js/script.js [36m304 [90m22ms[0m
+[0;31m  [90mCOFFEE SyntaxError :[0m [36munexpected //[0m
+[m
+[0;31mjarvis.coffee:96:6: error: unexpected //
+					//shuffle from https://gist.github.com/ddgromit/859699
+     ^^
+[m
+[90mGET /resources/js/jarvis.js [31m500 [90m64ms - 108b[0m
+[90mGET /resources/js/speech.js [36m304 [90m7ms[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m104ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m2ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m4ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m2ms[0m
+[90mGET /resources/js/script.js [36m304 [90m47ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m15ms[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m134ms - 18.07kb[0m
+[90mGET /resources/lib/swearWords.json [32m200 [90m3ms - 5.2kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/js/jarvis.coffee [32m200 [90m1ms - 5.77kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m1ms[0m
+[90mGET / [32m200 [90m25ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m0ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m4ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m66ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m66ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m74ms[0m
+[90mGET /resources/js/script.js [36m304 [90m91ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m2ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m1ms - 1.07kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m3ms[0m
+[90mGET /resources/js/jarvis.coffee [32m200 [90m1ms - 5.77kb[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m106ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m4ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m1ms[0m
+[90mGET /resources/css/main.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /resources/js/script.js [36m304 [90m48ms[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m168ms - 18.07kb[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m3ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m3ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m11ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/js/jarvis.coffee [32m200 [90m2ms - 5.77kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m2ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m2ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m1ms[0m
+[90mGET / [32m200 [90m28ms - 2.77kb[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m3ms[0m
+[90mGET /resources/css/main.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m2ms[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m62ms - 18.14kb[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m105ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m4ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m0ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m2ms[0m
+[90mGET /resources/js/script.js [32m200 [90m48ms - 4.35kb[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /resources/js/speech.js [32m200 [90m14ms - 2.01kb[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m128ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [32m200 [90m2ms - 5.2kb[0m
+[90mGET /resources/images/favicon.png [32m200 [90m1ms - 1.07kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m4ms[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m105ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m3ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m1ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m31ms[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m147ms - 18.21kb[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/js/script.js [36m304 [90m28ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m4ms - 1.07kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m3ms[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m131ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m5ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m4ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /resources/js/script.js [36m304 [90m48ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m3ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m3ms[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m121ms - 18.36kb[0m
+[90mGET /resources/js/speech.js [36m304 [90m131ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m2ms - 1.07kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m2ms[0m
+[90mGET /resources/js/jarvis.coffee [32m200 [90m2ms - 5.82kb[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m105ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m0ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m142ms - 18.4kb[0m
+[90mGET /resources/lib/dropzone.js [32m200 [90m144ms - 60.02kb[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/js/script.js [36m304 [90m26ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m33ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m2ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/userMusic/dead_giveaway.mp3 [32m206 [90m623ms - 3.45mb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/userMusic/aint_nobody_got_time_for_that.mp3 [32m206 [90m469ms - 3.52mb[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m105ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m4ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m3ms[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m144ms - 18.4kb[0m
+[90mGET /resources/css/main.css [36m304 [90m4ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m4ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.js [32m200 [90m3ms - 60.02kb[0m
+[90mGET /resources/js/script.js [36m304 [90m23ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m9ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m1ms - 1.07kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m2ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/userMusic/dead_giveaway.mp3 [32m206 [90m497ms - 3.45mb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m2ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m1ms[0m
+[90mGET /resources/userMusic/symphony_number_5.mp3 [32m206 [90m2428ms - 6.83mb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/userMusic/twinkle_twinkle_little_star.mp3 [32m206 [90m438ms - 2.91mb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/lib/swearWords.json [32m200 [90m1ms - 5.2kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m2ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m70ms - 2.77kb[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m106ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [32m200 [90m4ms - 17.4kb[0m
+[90mGET /resources/lib/annyang.js [32m200 [90m3ms - 2.57kb[0m
+[90mGET /resources/css/main.css [32m200 [90m4ms - 5.38kb[0m
+[90mGET /resources/lib/dropzone.css [32m200 [90m4ms - 11.33kb[0m
+[90mGET /resources/css/settings.css [32m200 [90m5ms - 1.12kb[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m143ms - 19.41kb[0m
+[90mGET /resources/js/script.js [32m200 [90m166ms - 4.35kb[0m
+[90mGET /resources/lib/profanity.js [32m200 [90m4ms - 1.75kb[0m
+[90mGET /resources/js/speech.js [32m200 [90m10ms - 2.01kb[0m
+[90mGET /resources/lib/dropzone.js [32m200 [90m2ms - 60.02kb[0m
+[90mGET /resources/lib/jquery.min.js [32m200 [90m7ms - 94.12kb[0m
+[90mGET /resources/fonts/Teio.ttf [32m200 [90m5ms - 23.79kb[0m
+[90mGET /resources/resources/fonts/fontawesome-webfont.woff?v=4.0.3 [33m404 [90m11ms - 229b[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [32m200 [90m2ms - 9.93kb[0m
+[90mGET /resources/lib/swearWords.json [32m200 [90m1ms - 5.2kb[0m
+[90mGET /resources/fonts/fontawesome-webfont.ttf?v=4.0.3 [32m200 [90m1ms - 78.76kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m3ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m2ms[0m
+[90mGET / [32m200 [90m27ms - 2.77kb[0m
+[90mGET /resources/css/settings.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /resources/css/main.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m4ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m3ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m4ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m3ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m65ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m71ms[0m
+[90mGET /resources/js/script.js [36m304 [90m19ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m2ms - 1.07kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m1ms[0m
+[90mGET /resources/js/jarvis.coffee [32m200 [90m1ms - 6.05kb[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m106ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /resources/css/main.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m5ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m3ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m29ms[0m
+[90mGET /resources/js/script.js [36m304 [90m62ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m3ms[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m116ms - 19.43kb[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m105ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m3ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m3ms[0m
+[90mGET /resources/js/script.js [36m304 [90m48ms[0m
+[90mGET /resources/css/main.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m14ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m133ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m2ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m27ms - 2.77kb[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m1ms[0m
+[90mGET /resources/css/main.css [36m304 [90m0ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m0ms[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m64ms - 19.49kb[0m
+[90mGET /resources/js/speech.js [36m304 [90m10ms[0m
+[90mGET /resources/js/script.js [36m304 [90m25ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m2ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m2ms - 1.07kb[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /resources/lib/swearWords.json [36m304 [90m33ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m3ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m108ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m3ms[0m
+[90mGET /resources/css/main.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m1ms[0m
+[90mGET /resources/js/script.js [36m304 [90m48ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m15ms[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m136ms - 19.16kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m2ms - 1.07kb[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m105ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m2ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m2ms[0m
+[90mGET /resources/css/main.css [36m304 [90m4ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m3ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m3ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m141ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m3ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m11ms[0m
+[90mGET /resources/js/script.js [36m304 [90m33ms[0m
+[90mGET /resources/lib/swearWords.json [32m200 [90m4ms - 5.2kb[0m
+[90mGET /resources/images/favicon.png [32m200 [90m2ms - 1.07kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m105ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/css/main.css [36m304 [90m3ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m34ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m7ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m4ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m4ms[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m128ms - 19.16kb[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /resources/js/script.js [36m304 [90m23ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m2ms - 1.07kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m29ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m0ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m3ms[0m
+[90mGET /resources/css/main.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m3ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m0ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m1ms[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m66ms - 19.17kb[0m
+[90mGET /resources/js/script.js [36m304 [90m82ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m88ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /resources/lib/swearWords.json [36m304 [90m6ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m3ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m109ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m4ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m5ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m0ms[0m
+[90mGET /resources/js/script.js [36m304 [90m52ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m127ms - 19.26kb[0m
+[90mGET /resources/js/speech.js [36m304 [90m138ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m3ms - 1.07kb[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /resources/lib/swearWords.json [36m304 [90m6ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m3ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m2ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m2ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m104ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m4ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m4ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/js/script.js [36m304 [90m51ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m3ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m2ms[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m125ms - 19.21kb[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m9ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m2ms - 1.07kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m3ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET / [32m200 [90m104ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m2ms[0m
+[90mGET /resources/css/main.css [36m304 [90m4ms[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m143ms - 19.23kb[0m
+[90mGET /resources/js/script.js [36m304 [90m163ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m2ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m14ms[0m
+[90mGET /resources/lib/dropzone.js [32m200 [90m14ms - 60.02kb[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m1ms - 1.07kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m2ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m26ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [32m200 [90m1ms - 17.4kb[0m
+[90mGET /resources/lib/dropzone.css [32m200 [90m1ms - 11.33kb[0m
+[90mGET /resources/css/main.css [32m200 [90m2ms - 5.38kb[0m
+[90mGET /resources/css/settings.css [32m200 [90m1ms - 1.12kb[0m
+[90mGET /resources/lib/dropzone.js [32m200 [90m2ms - 60.02kb[0m
+[90mGET /resources/lib/jquery.min.js [32m200 [90m13ms - 94.12kb[0m
+[90mGET /resources/lib/annyang.js [32m200 [90m1ms - 2.57kb[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m69ms - 19.23kb[0m
+[90mGET /resources/lib/profanity.js [32m200 [90m70ms - 1.75kb[0m
+[90mGET /resources/js/script.js [32m200 [90m18ms - 4.35kb[0m
+[90mGET /resources/js/speech.js [32m200 [90m22ms - 2.01kb[0m
+[90mGET /resources/fonts/Teio.ttf [32m200 [90m5ms - 23.79kb[0m
+[90mGET /resources/resources/fonts/fontawesome-webfont.woff?v=4.0.3 [33m404 [90m11ms - 229b[0m
+[90mGET /resources/lib/swearWords.json [32m200 [90m2ms - 5.2kb[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [32m200 [90m1ms - 9.93kb[0m
+[90mGET /resources/fonts/fontawesome-webfont.ttf?v=4.0.3 [32m200 [90m2ms - 78.76kb[0m
+[90mGET /resources/images/favicon.png [32m200 [90m1ms - 1.07kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/userMusic/ra_ra_rasputin.mp3 [32m206 [90m64329ms - 7.85mb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m18ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m1ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m0ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m0ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m64ms[0m
+[90mGET /resources/js/script.js [36m304 [90m77ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m83ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m1ms - 1.07kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m2ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /resources/lib/swearWords.json [36m304 [90m6ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m103ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m2ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m2ms[0m
+[90mGET /resources/css/main.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m4ms[0m
+[90mGET /resources/js/script.js [36m304 [90m49ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m0ms[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m120ms - 19.22kb[0m
+[90mGET /resources/js/speech.js [36m304 [90m128ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.js [32m200 [90m6ms - 60.02kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/images/favicon.png [32m200 [90m1ms - 1.07kb[0m
+[0;45m    hotnode [m [0;35mwebroot/resources/js/jarvis.coffee has been changed[m
+[0;42m    hotnode [m [0;32mcoffee process restarted[m
+Jarvis initialized
+[90mGET /resources/lib/swearWords.json [36m304 [90m6ms[0m
+[90mGET /resources/userMusic/ [32m200 [90m3ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/userMusic/ra_ra_rasputin.mp3 [32m206 [90m6785ms - 7.85mb[0m
+[90mGET / [32m200 [90m105ms - 2.77kb[0m
+[90mGET /resources/lib/font-awesome.min.css [32m200 [90m2ms - 17.4kb[0m
+[90mGET /resources/lib/dropzone.css [32m200 [90m3ms - 11.33kb[0m
+[90mGET /resources/css/main.css [32m200 [90m1ms - 5.38kb[0m
+[90mGET /resources/css/settings.css [32m200 [90m1ms - 1.12kb[0m
+[90mGET /resources/lib/dropzone.js [32m200 [90m2ms - 60.02kb[0m
+[90mGET /resources/lib/annyang.js [32m200 [90m2ms - 2.57kb[0m
+[90mGET /resources/lib/profanity.js [32m200 [90m1ms - 1.75kb[0m
+[90mGET /resources/lib/jquery.min.js [32m200 [90m33ms - 94.12kb[0m
+[90mGET /resources/js/jarvis.js [32m200 [90m139ms - 19.22kb[0m
+[90mGET /resources/js/speech.js [32m200 [90m9ms - 2.01kb[0m
+[90mGET /resources/js/script.js [32m200 [90m34ms - 4.35kb[0m
+[90mGET /resources/fonts/Teio.ttf [32m200 [90m1ms - 23.79kb[0m
+[90mGET /resources/resources/fonts/fontawesome-webfont.woff?v=4.0.3 [33m404 [90m9ms - 229b[0m
+[90mGET /resources/lib/swearWords.json [32m200 [90m1ms - 5.2kb[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [32m200 [90m2ms - 9.93kb[0m
+[90mGET /resources/fonts/fontawesome-webfont.ttf?v=4.0.3 [32m200 [90m2ms - 78.76kb[0m
+[90mGET /resources/images/favicon.png [32m200 [90m1ms - 1.07kb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m26ms[0m
+[90mGET /resources/lib/font-awesome.min.css [36m304 [90m1ms[0m
+[90mGET /resources/lib/dropzone.css [36m304 [90m1ms[0m
+[90mGET /resources/css/main.css [36m304 [90m1ms[0m
+[90mGET /resources/css/settings.css [36m304 [90m3ms[0m
+[90mGET /resources/lib/dropzone.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/jquery.min.js [36m304 [90m2ms[0m
+[90mGET /resources/lib/annyang.js [36m304 [90m0ms[0m
+[90mGET /resources/lib/profanity.js [36m304 [90m0ms[0m
+[90mGET /resources/js/jarvis.js [36m304 [90m75ms[0m
+[90mGET /resources/js/script.js [36m304 [90m19ms[0m
+[90mGET /resources/js/speech.js [36m304 [90m24ms[0m
+[90mGET /resources/fonts/Teio.ttf [36m304 [90m2ms[0m
+[90mGET /resources/resources/fonts/fontawesome-webfont.woff?v=4.0.3 [33m404 [90m5ms - 229b[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/fonts/Digital%20Tech.otf [36m304 [90m1ms[0m
+[90mGET /resources/fonts/fontawesome-webfont.ttf?v=4.0.3 [36m304 [90m0ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m1ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/userMusic/dead_giveaway.mp3 [32m206 [90m4079ms - 3.45mb[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET /resources/lib/swearWords.json [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m23ms - 2.77kb[0m
