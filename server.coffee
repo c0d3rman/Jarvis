@@ -1,4 +1,3 @@
-coffeescript = require 'coffee-script'
 coffeecup = require 'coffeecup'
 coffeemiddleware = require 'coffee-middleware'
 express = require 'express'
@@ -9,6 +8,14 @@ path = require 'path'
 http = require 'http'
 https = require 'https'
 busboy = require 'connect-busboy'
+#subdomains = require 'express-subdomains'
+storage = require 'node-persist'
+
+
+storage.initSync()
+
+#subdomains.use 'u'
+#need updated certificate for subdomain
 
 app = express()
 
@@ -17,6 +24,7 @@ app.set 'view engine', 'coffee'
 app.engine 'coffee', coffeecup.__express
 
 app.use morgan 'dev'
+#app.use subdomains.middleware
 app.use (req, res, next) ->
 	decoded = decodeURIComponent req.url
 	if decoded isnt path.join '/', decoded
@@ -34,6 +42,14 @@ helpers["_#{f.slice 0, -7}"] = require "./include/#{f}" for f in fs.readdirSync(
 
 app.get '/', (req, res) ->
 	res.render 'index', empty: '', hardcode: helpers
+app.get '/u/:short', (req, res) ->
+	if storage.getItem(req.params.short)?
+		res.redirect storage.getItem req.params.short
+	else
+		res.end 'No url here :-('	
+app.get '/u/:short/:long', (req, res) ->
+	storage.setItem req.params.short, "http://" + decodeURIComponent req.params.long
+	res.end "https://jarvispa.info/u/#{req.params.short}  ->  #{decodeURIComponent req.params.long}"
 app.get '/resources/userMusic', (req, res) ->
 	fs.readdir "#{__dirname}/webroot/resources/userMusic", (err, files) ->
 		if err
