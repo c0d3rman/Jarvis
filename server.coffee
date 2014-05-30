@@ -61,13 +61,29 @@ helpers["_#{f.slice 0, -7}"] = require "./include/#{f}" for f in fs.readdirSync(
 
 app.get '/', (req, res) ->
 	res.render 'index', empty: '', hardcode: helpers
+app.get '/u', (req, res) ->
+	storage.values (links) ->
+		console.log links
+		res.writeHead 200, "Content-Type": "text/html"
+		res.write "<html><body>"
+		res.write "<p>Usage:<br>
+https://jarvispa.info/u/short/long -- makes a new link<br>
+https://jarvispa.info/u/short -- accesses a link<br></p>"
+		res.write "<p>Existing links:</p>"
+		res.write "<style>table,table td,table th{border:1px solid black}</style>"
+		res.write "<table><tablebody>"
+		res.write "<tr><th>Short</th><th>Long</th></tr>"
+		res.write "<tr><td>#{link.short}</td><td>#{link.long}</td></tr>" for link in links
+		res.write "</tablebody></table>"
+		res.write "</body></html>"
+		res.end()
 app.get '/u/:short', (req, res) ->
 	if storage.getItem(req.params.short)?
-		res.redirect storage.getItem req.params.short
+		res.redirect storage.getItem(req.params.short).long
 	else
 		res.end 'No url here :-('	
 app.get '/u/:short/:long', (req, res) ->
-	storage.setItem req.params.short, "http://" + decodeURIComponent req.params.long
+	storage.setItem req.params.short, short: req.params.short, long: "http://" + decodeURIComponent req.params.long
 	res.end "https://jarvispa.info/u/#{req.params.short}  ->  #{decodeURIComponent req.params.long}"
 app.get '/resources/userMusic', (req, res) ->
 	fs.readdir "#{__dirname}/webroot/resources/userMusic", (err, files) ->

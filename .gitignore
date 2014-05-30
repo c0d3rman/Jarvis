@@ -1,5 +1,5 @@
 certs
 node_modules
 persist
-jarvis.log
+log
 webroot/resources/userMusic

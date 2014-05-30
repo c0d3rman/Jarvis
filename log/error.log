@@ -1,6 +1,6 @@
 
+[ { short: 'hello', long: 'http://google.com' } ]
+[0;45m    hotnode [m [0;35mserver.coffee has been changed[m
 [0;42m    hotnode [m [0;32mcoffee process restarted[m
 Jarvis initialized
-[0;45m    hotnode [m [0;35mwebroot/resources/js/script.coffee has been changed[m
-[0;42m    hotnode [m [0;32mcoffee process restarted[m
-Jarvis initialized
+[ { short: 'hello', long: 'http://google.com' } ]
