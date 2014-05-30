@@ -14,7 +14,7 @@
     "serve-static": "^1.1.0"
   },
   "scripts": {
-    "start": "nohup hotcoffee server.coffee >> jarvis.log 2>&1 &",
+    "start": "nohup hotcoffee server.coffee 2>&1 >> log/error.log &",
     "stop": "pgrep node | xargs --no-run-if-empty kill"
   }
 }

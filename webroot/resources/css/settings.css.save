@@ -1,0 +1,65 @@
+#settingCog {
+	position: absolute;
+	top: 5%;
+	right: 5%;
+
+	font-size: 3em;
+	opacity: 0.3;
+
+	animation: unspin 0.5s;
+	-webkit-animation: unspin 0.5s;
+}
+
+#settingCog:hover {
+	opacity: 1;
+	animation: spin 0.5s;
+	-webkit-animation: spin 0.5s;
+}
+
+@keyframes spin {
+	0% {transform: rotate(0deg);}
+	100% {transform: rotate(90deg);}
+}
+@-webkit-keyframes spin {
+	0% {-webkit-transform: rotate(0deg);}
+	100% {-webkit-transform: rotate(90deg);}
+}
+@keyframes unspin {
+	0% {transform: rotate(90deg);}
+	100% {transform: rotate(0deg);}
+}
+@-webkit-keyframes unspin {
+	0% {-webkit-transform: rotate(90deg);}
+	100% {-webkit-transform: rotate(0deg);}
+}
+
+#settingBar {
+	background-color: #00FF00;
+	width: 1%;
+	position: absolute;
+	right: 7%;
+}
+
+#settings {
+	background-color: #008800;
+	postion: relative;
+	right: 1em;
+	float: right;
+}
+
+.setting {
+	border: 1px solid black;
+}
+
+.setting p {
+	font-size: 1em;
+	font-family: "Digital Tech";
+	display: inline;
+	margin-right: 
+}
+
+#jarvisName {
+	display: inline;
+	background-color: none;
+	border: 2px solid #00BB00;
+}

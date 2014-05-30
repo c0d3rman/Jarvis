@@ -17,13 +17,38 @@ storage.initSync()
 #subdomains.use 'u'
 #need updated certificate for subdomain
 
+`
+function compile(fmt) {
+  fmt = fmt.replace(/"/g, '\\"');
+  var js = '  return "' + fmt.replace(/:([-\w]{2,})(?:\[([^\]]+)\])?/g, function(_, name, arg){
+    return '"\n    + (tokens["' + name + '"](req, res, "' + arg + '") || "-") + "';
+  }) + '";'
+  return new Function('tokens, req, res', js);
+};
+`
+morgan.format 'dev++', (tokens, req, res) ->
+	color = 32 # green
+	status = res.statusCode
+
+	if status >= 500
+		color = 31 # red
+	else if status >= 400
+		color = 33 # yellow
+	else if status >= 300
+		color = 36 # cyan
+	
+	fn = compile "\x1b[90m:remote-addr \x1b[32m:method \x1b[35m:url \x1b[#{color}m:status \x1b[97m:response-time ms\x1b[0m"
+	
+	fn tokens, req, res
+
 app = express()
 
 app.set 'views', "#{__dirname}/webroot"
 app.set 'view engine', 'coffee'
 app.engine 'coffee', coffeecup.__express
 
-app.use morgan 'dev'
+app.use morgan stream: {write: (str) -> fs.appendFileSync "#{__dirname}/log/long.log", str}
+app.use morgan format: "dev++", stream: {write: (str) -> fs.appendFileSync "#{__dirname}/log/short.log", str}
 #app.use subdomains.middleware
 app.use (req, res, next) ->
 	decoded = decodeURIComponent req.url
@@ -88,6 +113,7 @@ app.get '*', (req, res) ->
 		res.end()
 
 options =
+	#ca: fs.readFileSync "#{__dirname}/certs/ca.pem"
 	key: fs.readFileSync "#{__dirname}/certs/server.key"
 	cert: fs.readFileSync "#{__dirname}/certs/server.crt"
 
