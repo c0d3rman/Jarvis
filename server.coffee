@@ -10,6 +10,7 @@ https = require 'https'
 busboy = require 'connect-busboy'
 #subdomains = require 'express-subdomains'
 storage = require 'node-persist'
+edt = require 'express-directory-traversal'
 
 
 storage.initSync()
@@ -50,14 +51,7 @@ app.engine 'coffee', coffeecup.__express
 app.use morgan stream: {write: (str) -> fs.appendFileSync "#{__dirname}/log/long.log", str}
 app.use morgan format: "dev++", stream: {write: (str) -> fs.appendFileSync "#{__dirname}/log/short.log", str}
 #app.use subdomains.middleware
-app.use (req, res, next) ->
-	decoded = decodeURIComponent req.url
-	if decoded isnt path.join '/', decoded
-		res.writeHead 403, "Content-Type": "text/plain"
-		res.write "Yo dawg, I heard you liked paths so I put paths in your paths so you can traverse paths while you're traversing paths.\n"
-		res.end()
-	else
-		next()
+app.use edt "Yo dawg, I heard you liked paths so I put paths in your paths so you can traverse paths while you're traversing paths.\n"
 app.use coffeemiddleware src: "#{__dirname}/webroot"
 app.use busboy fileSize: 20 * 1024 * 1024
 app.use servestatic "#{__dirname}/webroot"

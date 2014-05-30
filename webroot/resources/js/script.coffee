@@ -38,7 +38,7 @@ $(document).ready ->
 			window.previousEntries[0] = $("#in").val()
 			window.currentEntry += 39 - event.keyCode if 0 <= window.currentEntry + 39 - event.keyCode <= previousEntries.length # extra one at end for blank
 			$("#in").val previousEntries[window.currentEntry]
-		else if event.keyCode == 187
+		else if event.keyCode == 27
 			annyang.stop()
 			
 	# keep #in focused
