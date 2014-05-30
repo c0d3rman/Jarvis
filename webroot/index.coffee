@@ -8,7 +8,7 @@ html ->
 		meta 'http-equiv': 'Content-Type', content: 'text/html; charset=UTF-8'
 		meta name: 'description', content: 'A digital personal assistant that accepts voice commands.'
 		meta name: 'keywords', content: 'jarvis,personal assistant,assistant,voice command,jarvis personal assistant'
-		comment '<meta property="og:image" content="http://talktyper.com/common/images/TalkTyperLogoBox.png">'
+		#meta property: 'og:image', content: 'INSERT_IMAGE_LINK'
 		meta property: 'og:title', content: 'Jarvis Personal Assistant'
 		meta property: 'og:type', content: 'website'
 		meta property: 'og:site_name', content: 'Jarvis Personal Assistant'
@@ -22,7 +22,6 @@ html ->
 		link href: '/resources/images/favicon.png', rel: 'icon', type: 'image/png'
 
 		script src: '/resources/lib/dropzone.js'
-		#script src: '/resources/lib/speakjs/speakClient.js'
 		script src: '/resources/lib/jquery.min.js'
 		script src: '/resources/lib/annyang.js'
 		script src: '/resources/lib/profanity.js'
