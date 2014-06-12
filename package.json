@@ -8,7 +8,7 @@
     "coffeecup": "^0.3.21",
     "connect-busboy": "0.0.1",
     "express": "^4.1.1",
-    "express-directory-traversal": "0.0.1",
+    "express-directory-traversal": "^1.0.2",
     "express-subdomains": "0.0.5",
     "morgan": "^1.0.1",
     "node-persist": "0.0.2",
@@ -18,7 +18,6 @@
   "scripts": {
     "start": "nohup hotcoffee server.coffee 2>&1 >> log/error.log &",
     "stop": "pgrep node | xargs --no-run-if-empty kill",
-    "//": "Clear the short log, long log, and error log, respectively",
     "//": "",
     "CSL": "echo > log/short.log",
     "CLL": "echo > log/long.log",

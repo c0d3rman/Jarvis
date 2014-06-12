@@ -19,28 +19,27 @@ storage.initSync()
 #need updated certificate for subdomain
 
 `
-function compile(fmt) {
-  fmt = fmt.replace(/"/g, '\\"');
-  var js = '  return "' + fmt.replace(/:([-\w]{2,})(?:\[([^\]]+)\])?/g, function(_, name, arg){
-    return '"\n    + (tokens["' + name + '"](req, res, "' + arg + '") || "-") + "';
-  }) + '";'
-  return new Function('tokens, req, res', js);
+var compile = function (fmt) {
+        fmt = fmt.replace(/"/g, '\\"');
+        var js = '  return "' + fmt.replace(/:([-\w]{2,})(?:\[([^\]]+)\])?/g, function(_, name, arg){
+                return '"\n    + (tokens["' + name + '"](req, res, "' + arg + '") || "-") + "';
+        }) + '";'
+        return new Function('tokens, req, res', js);
 };
 `
-morgan.format 'dev++', (tokens, req, res) ->
-	color = 32 # green
-	status = res.statusCode
 
-	if status >= 500
-		color = 31 # red
-	else if status >= 400
-		color = 33 # yellow
-	else if status >= 300
-		color = 36 # cyan
+morgan.format 'dev++', (tokens, req, res) ->
+	color = 32
+	status = res.statusCode
 	
-	fn = compile "\x1b[90m:remote-addr \x1b[32m:method \x1b[35m:url \x1b[#{color}m:status \x1b[97m:response-time ms\x1b[0m"
+	if status >= 500 then color = 31
+	else if status >= 400 then color = 33
+	else if status >= 300 then color = 36
+	
+	fn = compile "\x1b[90m:remote-addr \x1b[32m:method \x1b[35m:url \x1b[" + color + "m:status \x1b[97m:response-time ms\x1b[0m"
 	
 	fn tokens, req, res
+
 
 app = express()
 
