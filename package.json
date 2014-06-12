@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "cluster": "^0.7.7",
     "coffee-middleware": "^0.2.1",
     "coffeecup": "^0.3.21",
     "connect-busboy": "0.0.1",
