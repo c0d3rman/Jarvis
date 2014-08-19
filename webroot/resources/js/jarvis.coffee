@@ -26,14 +26,13 @@ $(document).ready ->
 				$.ajax({
 					url: "https://api.wit.ai/message"
 					data:
+						'v': '20140501' #May 1st 2014
 						'q': command #encodeURIComponent(command)
-						'access_token': "QZU367LL45MEL3LEXOJK23KSGQ5EV2SL"
+						'access_token': "6BBRQXOFZ3PBUOEEZQYAJUXOHLUK3353"
 					dataType: "jsonp"
 					jsonp: "callback"
 					method: "POST"
 					timeout: 1000
-					headers:
-						v: 20140501 # May first
 				}).done((data) ->
 					confidence = data.outcome.confidence
 					if confidence > 0.6

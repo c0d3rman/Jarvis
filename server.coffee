@@ -132,9 +132,20 @@ else
 		else
 			res.write '404 not found'
 			res.end()
-
+	
+	#from http://www.benjiegillam.com/2012/06/node-dot-js-ssl-certificate-chain/
+	ca = []
+	chain = fs.readFileSync "#{__dirname}/certs/chain/ca-certs.crt", 'utf8'
+	chain = chain.split "\n"
+	cert = []
+	for line in chain when line.length isnt 0
+		cert.push line
+		if line.match /-END CERTIFICATE-/
+			ca.push cert.join "\n"
+			cert = []
+	
 	options =
-		#ca: fs.readFileSync "#{__dirname}/certs/ca.pem"
+		ca: ca
 		key: fs.readFileSync "#{__dirname}/certs/server.key"
 		cert: fs.readFileSync "#{__dirname}/certs/server.crt"
 
