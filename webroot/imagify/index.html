@@ -1,0 +1,54 @@
+<html>
+	<head>
+		<title>Imagify</title>
+		<style>
+			img {
+				height: 200px;
+			}
+		</style>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	</head>
+	<body>
+		<input id="in" size=50>
+		<button id="button">Imagify</button>
+		<input id="rand" type="checkbox">Randomize
+		<br>
+		<div id="div">
+		</div>
+		<script>
+			$("#button").click(function(){
+				$("#div").html("");
+				sentence = $("#in").val();
+				sentence = sentence.replace(/[^A-Za-z0-9'" -]/, "");
+				words = sentence.split(" ");
+				var loopFunc = function (i) {
+					$.ajax({
+						url: "https://ajax.googleapis.com/ajax/services/search/images?v=1.0&q=" + encodeURIComponent(words[i]),
+						success: function(data) {
+							if (data.responseData.results[0]) {
+								if ($("#rand").prop("checked")) {
+									url = data.responseData.results[Math.floor(Math.random() * data.responseData.results.length)].unescapedUrl;
+								} else {
+									url = data.responseData.results[0].unescapedUrl;
+								}
+							} else {
+								url = "http://www.1320am.com/wp-content/uploads/2013/04/no-photo-available-hi.png";
+							}
+							$("<img></img>")
+								.attr("src", url)
+								.attr("title", words[i])
+								.appendTo($("#div"));
+						},
+						crossDomain: true,
+						dataType: "jsonp",
+						type: "GET",
+						async: false
+					})
+				}
+				for (i in words) {
+					loopFunc(i);
+				}
+			})
+		</script>
+	</body>
+</html>

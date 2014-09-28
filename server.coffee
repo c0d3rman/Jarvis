@@ -126,13 +126,24 @@ else
 					res.write "File uploaded successfuly"
 					res.end()
 	app.get '*', (req, res) ->
-		res.status 404
-		if req.accepts 'html'
-			res.render '404', empty: '', hardcode: helpers
-		else
-			res.write '404 not found'
+		relpath = "#{req.url.substr(1)}index"
+		filepath = "#{__dirname}/webroot#{req.url}index.coffee"
+		if filepath isnt path.join '/', filepath
+			res.writeHead 403, "Content-Type": "text/plain"
+			res.write "The directory traversal is strong in this one."
 			res.end()
-	
+		else
+			fs.exists filepath, (fileExists) ->
+				if fileExists
+					res.render relpath, empty: '', hardcode: helpers
+				else
+					res.status 404
+					if req.accepts 'html'
+						res.render '404', empty: '', hardcode: helpers
+					else
+						res.write '404 not found'
+						res.end()
+
 	#from http://www.benjiegillam.com/2012/06/node-dot-js-ssl-certificate-chain/
 	ca = []
 	chain = fs.readFileSync "#{__dirname}/certs/chain/ca-certs.crt", 'utf8'
