@@ -1,6 +1,6 @@
 {
-  "name": "jarvis-server",
-  "description": "A server to run jarvispa.info",
+  "name": "jarvis-server-nueva",
+  "description": "A server to run the Nueva version of Jarvis",
   "version": "1.0.0",
   "private": true,
   "dependencies": {

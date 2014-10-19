@@ -8,7 +8,6 @@ path = require 'path'
 http = require 'http'
 https = require 'https'
 busboy = require 'connect-busboy'
-#subdomains = require 'express-subdomains'
 storage = require 'node-persist'
 edt = require 'express-directory-traversal'
 cluster = require 'cluster'
@@ -72,30 +71,6 @@ else
 
 	app.get '/', (req, res) ->
 		res.render 'index', empty: '', hardcode: helpers
-	app.get '/u', (req, res) ->
-		storage.values (links) ->
-			console.log links
-			res.writeHead 200, "Content-Type": "text/html"
-			res.write "<html><body>"
-			res.write "<p>Usage:<br>
-	https://jarvispa.info/u/short/long -- makes a new link<br>
-	https://jarvispa.info/u/short -- accesses a link<br></p>"
-			res.write "<p>Existing links:</p>"
-			res.write "<style>table,table td,table th{border:1px solid black}</style>"
-			res.write "<table><tablebody>"
-			res.write "<tr><th>Short</th><th>Long</th></tr>"
-			res.write "<tr><td>#{link.short}</td><td>#{link.long}</td></tr>" for link in links
-			res.write "</tablebody></table>"
-			res.write "</body></html>"
-			res.end()
-	app.get '/u/:short', (req, res) ->
-		if storage.getItem(req.params.short)?
-			res.redirect storage.getItem(req.params.short).long
-		else
-			res.end 'No url here :-('	
-	app.get '/u/:short/:long', (req, res) ->
-		storage.setItem req.params.short, short: req.params.short, long: "http://" + decodeURIComponent req.params.long
-		res.end "https://jarvispa.info/u/#{req.params.short}  ->  #{decodeURIComponent req.params.long}"
 	app.get '/resources/userMusic', (req, res) ->
 		fs.readdir "#{__dirname}/webroot/resources/userMusic", (err, files) ->
 			if err
@@ -107,24 +82,6 @@ else
 				res.writeHead 200, "Content-Type": "text/plain"
 				res.write "#{file}\n" for file in files
 				res.end()
-	app.post '/upload', (req, res) ->
-		req.pipe req.busboy
-		req.busboy.on 'file', (fieldname, file, filename) ->
-			filename = filename.replace(RegExp(' ', 'g'), '_').replace(/[^A-Z0-9._-]/ig, '').toLowerCase()
-			filepath = "#{__dirname}/webroot/resources/userMusic/#{filename}"
-			if filepath isnt path.join '/', filepath
-				res.writeHead 403, "Content-Type": "text/plain"
-				res.write "The directory traversal is strong in this one."
-				res.end()
-			else
-				fstream = fs.createWriteStream filepath
-				file.pipe fstream
-				fstream.on 'close', ->
-					#fs.chownSync filepath, 33, 33
-					#fs.chmodSync filepath, 700
-					res.writeHead 200
-					res.write "File uploaded successfuly"
-					res.end()
 	app.get '*', (req, res) ->
 		relpath = "#{req.url.substr(1)}index"
 		filepath = "#{__dirname}/webroot#{req.url}index.coffee"
@@ -167,5 +124,5 @@ else
 		res.writeHead 301, "Content-Type": "text/plain", "Location": "https://#{req.headers.host + req.url}"
 		res.end()
 	httpsServer = https.createServer options, app
-	httpServer.listen 80, localhost, wwwdata
-	httpsServer.listen 443, localhost, wwwdata
+	httpServer.listen 8000, localhost, wwwdata
+	httpsServer.listen 8080, localhost, wwwdata
