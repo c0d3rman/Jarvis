@@ -143,7 +143,7 @@ $(document).ready ->
 			calculate:	(self, data) ->
 				expression = data.math_expression.value
 				self.talk "Calculating #{expression}"
-				window.open "http://www.wolframalpha.com/input/?i=#{expression}", "_self"
+				window.open "http://www.wolframalpha.com/input/?i=#{encodeURIComponent expression}", "_self"
 			help:		(self) ->
 				self.talk "You can say:<br>" + (name for name, action of self.actions when name.charAt(0) isnt '_').join "<br>"
 			#client actions
