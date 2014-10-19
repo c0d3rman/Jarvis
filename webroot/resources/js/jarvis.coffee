@@ -100,10 +100,16 @@ $(document).ready ->
 				self.player.pause()
 				self.talk "Pausing song"
 			play:		(self, data) ->
-				filename = data.song_name.value.replace new RegExp(' ', 'g'), "_" #uses RegExp object to avoid leading whitespace regex division bug (#607 in GitHub)
-				$(self.player).attr "src", "/resources/userMusic/" + filename.toLowerCase() + ".mp3"
-				self.player.play()
-				self.talk "Playing " + data.song_name.value
+				filename = data.song_name.value.replace(new RegExp(' ', 'g'), "_").toLowerCase() + ".mp3" #uses RegExp object to avoid leading whitespace regex division bug (#607 in GitHub)
+				filepath = "/resources/userMusic/#{filename}"
+				$.get(filepath)
+					.done( ->
+						$(self.player).attr "src", filepath
+						self.player.play()
+						self.talk "Playing " + data.song_name.value
+					).fail ->
+						self.player.pause()
+						self.talk "I don't have the song " + data.song_name.value
 			speak:		(self, data) ->
 				self.talk data.message_body.value
 			shuffle:	(self) ->
