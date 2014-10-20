@@ -23,6 +23,7 @@ html ->
 		script src: '/resources/js/jarvis.js'
 		script src: '/resources/js/script.js'
 		script src: '/resources/js/speech.js'
+		script src: '/resources/js/schedule.js'
 	
 	body ->
 		div '#headerDiv.resp', ->

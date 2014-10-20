@@ -4,7 +4,7 @@ $(document).ready ->
 		player: $("#myPlayer").get(0)
 		swearWords: ( ->
 			tempObj = null
-			jQuery.ajax url: '/resources/lib/swearWords.json', async: no, dataType: "json", success: (json) ->
+			jQuery.ajax url: '/resources/data/swearWords.json', async: no, dataType: "json", success: (json) ->
 				tempObj = json
 			tempObj
 		)()
@@ -125,6 +125,14 @@ $(document).ready ->
 				window.open "http://www.wolframalpha.com/input/?i=#{encodeURIComponent expression}", "_self"
 			help:		(self) ->
 				self.talk "You can say:<br>" + (name for name, action of self.actions when name.charAt(0) isnt '_').join "<br>"
+			class_now:	(self, data) ->
+				#className = window.scheduleUtils.getClassFromTime window.scheduleUtils.schedule, data.datetime[0].value.from
+				className = window.scheduleUtils.getCurrentClass()
+				if className?
+					self.talk "You have #{className} right now"
+				else
+					self.talk "You don't have a class right now"
+			
 			#internal actions
 			_unknown:	(self) ->
 				self.talk "I didn't understand that.", "Jarvis", "I did ent understand that"
