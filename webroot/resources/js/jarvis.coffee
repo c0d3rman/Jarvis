@@ -27,7 +27,7 @@ $(document).ready ->
 					data:
 						'v': '20140501' #May 1st 2014
 						'q': command #encodeURIComponent(command)
-						'access_token': "6BBRQXOFZ3PBUOEEZQYAJUXOHLUK3353"
+						'access_token': "HFJ5Y3XFVSEXQICMCUPICOJKO6IIBECQ"
 					dataType: "jsonp"
 					jsonp: "callback"
 					method: "POST"
@@ -62,22 +62,13 @@ $(document).ready ->
 					when "unpause"			then 	this.actions.unpause this
 					when "play"			then 	this.actions.play this, data
 					when "say", "speak"		then 	this.actions.speak this, data
-					when "clear"			then 	this.actions.clear this
 					when "help", "?"		then	this.actions.help this
 					else 					this.actions._unknown this
 		
 		actions:
-			clear:		(self) ->
-				self.talk "Clearing terminal"
-				$("#terminalContent").text ""
 			hello:		(self, data) ->
 				greetings = ["Hello", "Hi", "Wazzap ma homie", "Hello sir", "Greetings"]
 				self.talk greetings[Math.floor(Math.random() * greetings.length)]
-			leave:		(self) ->
-				#window.close()
-				self.talk "Goodbye sir"
-				ww = window.open window.location, '_self'
-				ww.close()
 			list:		(self, dataCatcher, callback) ->
 				$.get("/resources/userMusic/", (data) ->
 					data = (data[i] = element.slice(0, -4).replace /_/g, " " for element, i in data.split "\n").slice 0, -1

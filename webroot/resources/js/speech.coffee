@@ -5,6 +5,7 @@ if annyang
 		window.previousEntries.splice 1, 0, command
 		window.currentEntry++
 	getPrompted = ->
+		window.jarvis.talk "Jarvis...", "You"
 		window.jarvis.talk "Yes sir?"
 		window.prompted = yes
 
