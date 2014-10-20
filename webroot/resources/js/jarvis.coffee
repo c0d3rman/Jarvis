@@ -2,6 +2,12 @@ $(document).ready ->
 	# define jarvis object for others to interact with
 	jarvis =
 		player: $("#myPlayer").get(0)
+		swearWords: ( ->
+			tempObj = null
+			jQuery.ajax url: '/resources/lib/swearWords.json', async: no, dataType: "json", success: (json) ->
+				tempObj = json
+			tempObj
+		)()
 		# add a talk fuction to submit messages to terminal
 		talk: (message, speaker = "Jarvis", spoken) ->
 			$("#terminalContent").append speaker + ': ' + message + '<br><br>'
@@ -9,7 +15,7 @@ $(document).ready ->
 				.replace(/\n|<br>|\\n/g, ', ')		# make newlines into pauses
 				.replace(/<(?:.|\n)*?>/gm, '')		# remove HTML
 				.replace(/[^A-Z0-9!.?, -]/ig, '')	# zap gremlins
-			$(document).profanityFilter externalSwears: '/resources/lib/swearWords.json'
+			$(document).profanityFilter customSwears: this.swearWords
 			if speaker == "Jarvis"
 				if speechSynthesis?
 					message = new SpeechSynthesisUtterance (spoken or message)
@@ -37,12 +43,15 @@ $(document).ready ->
 					if confidence > 0.6
 						window.jarvis.understand data
 					else
-						window.jarvis.instinct command
+						window.jarvis._unknown()
 				).fail((jqXHR, textStatus, errorThrown) ->
 					console.log 'textStatus: ' + textStatus
 					console.log 'errorThrown: ' + errorThrown
 					console.log 'jqXHR: ' + jqXHR
-					window.jarvis.instinct command
+					if navigator.onLine
+						throw errorThrown
+					else
+						window.jarvis.talk "I can't connect to the internet", "Jarvis", "I cant connect to the internet"
 				)
 				
 		understand: (rawData) ->
@@ -50,20 +59,6 @@ $(document).ready ->
 				intent = rawData.outcome.intent
 				data = rawData.outcome.entities
 				(this.actions[intent] or this.actions._unknown)(this, data)
-			
-		instinct: (command) ->
-			this.failGracefully ->
-				[command, data...] = command.toLowerCase().split " "
-				data = data.join " "
-				player = this.player
-				switch command
-					when "hello", "hi"		then 	this.actions.hello this
-					when "pause", "stop"		then 	this.actions.pause this
-					when "unpause"			then 	this.actions.unpause this
-					when "play"			then 	this.actions.play this, data
-					when "say", "speak"		then 	this.actions.speak this, data
-					when "help", "?"		then	this.actions.help this
-					else 					this.actions._unknown this
 		
 		actions:
 			hello:		(self, data) ->
@@ -133,6 +128,8 @@ $(document).ready ->
 			#internal actions
 			_unknown:	(self) ->
 				self.talk "I didn't understand that.", "Jarvis", "I did ent understand that"
+			_disconnected: (self) ->
+				self.talk "I can't connect to the internet"
 		failGracefully: (todo) ->
 			try
 				todo.apply this
