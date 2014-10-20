@@ -12,7 +12,6 @@
     "express-directory-traversal": "^1.0.2",
     "express-subdomains": "0.0.5",
     "morgan": "^1.0.1",
-    "node-persist": "0.0.2",
     "serve-static": "^1.1.0",
     "stylus": "^0.45.1"
   },

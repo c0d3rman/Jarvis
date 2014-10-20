@@ -8,7 +8,6 @@ path = require 'path'
 http = require 'http'
 https = require 'https'
 busboy = require 'connect-busboy'
-storage = require 'node-persist'
 edt = require 'express-directory-traversal'
 cluster = require 'cluster'
 os = require 'os'
@@ -23,12 +22,6 @@ if cluster.isMaster
 		console.log "Process #{i} started"
 	cluster.on "exit", (worker, code, signal) -> cluster.fork()
 else
-
-	storage.initSync()
-
-	#subdomains.use 'u'
-	#need updated certificate for subdomain
-
 	`
 	var compile = function (fmt) {
 		fmt = fmt.replace(/"/g, '\\"');
@@ -60,17 +53,13 @@ else
 
 	app.use morgan stream: {write: (str) -> fs.appendFileSync "#{__dirname}/log/long.log", str}
 	app.use morgan format: "dev++", stream: {write: (str) -> fs.appendFileSync "#{__dirname}/log/short.log", str}
-	#app.use subdomains.middleware
 	app.use edt "Yo dawg, I heard you liked paths so I put paths in your paths so you can traverse paths while you're traversing paths.\n"
 	app.use coffeemiddleware src: "#{__dirname}/webroot"
 	app.use busboy limits: {fileSize: 20 * 1024 * 1024}
 	app.use servestatic "#{__dirname}/webroot"
-
-	helpers = {}
-	helpers["_#{f.slice 0, -7}"] = require "./include/#{f}" for f in fs.readdirSync('./include') when f.slice(-7) is ".coffee"
-
+	
 	app.get '/', (req, res) ->
-		res.render 'index', empty: '', hardcode: helpers
+		res.render 'index', empty: ''
 	app.get '/resources/userMusic', (req, res) ->
 		fs.readdir "#{__dirname}/webroot/resources/userMusic", (err, files) ->
 			if err
@@ -92,11 +81,11 @@ else
 		else
 			fs.exists filepath, (fileExists) ->
 				if fileExists
-					res.render relpath, empty: '', hardcode: helpers
+					res.render relpath, empty: ''
 				else
 					res.status 404
 					if req.accepts 'html'
-						res.render '404', empty: '', hardcode: helpers
+						res.render '404', empty: ''
 					else
 						res.write '404 not found'
 						res.end()
