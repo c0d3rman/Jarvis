@@ -20,12 +20,6 @@ $(document).ready ->
 				else
 					speak message, {pitch: 20}
 		
-		#socket-related
-		socket: io.connect "https://localhost:29632", secure: true
-		socketEmit: (event, data) ->
-			if this.socket.connected
-				this.socket.emit event, data
-		
 		process: (command) ->
 			this.failGracefully ->
 				$.ajax({
@@ -53,7 +47,6 @@ $(document).ready ->
 				
 		understand: (rawData) ->
 			this.failGracefully ->
-				#console.log rawData
 				intent = rawData.outcome.intent
 				data = rawData.outcome.entities
 				(this.actions[intent] or this.actions._unknown)(this, data)
@@ -146,16 +139,6 @@ $(document).ready ->
 				window.open "http://www.wolframalpha.com/input/?i=#{encodeURIComponent expression}", "_self"
 			help:		(self) ->
 				self.talk "You can say:<br>" + (name for name, action of self.actions when name.charAt(0) isnt '_').join "<br>"
-			#client actions
-			#volumeUp:	(self, data) ->
-			#	self.talk "Increasing volume"
-			#	self.socketEmit "volume up", data
-			mute:	(self, data) ->
-				self.talk "Muting volume"
-				self.socketEmit "mute"
-			unmute:	(self, data) ->
-				self.talk "Unmuting volume"
-				self.socketEmit "mute"
 			#internal actions
 			_unknown:	(self) ->
 				self.talk "I didn't understand that.", "Jarvis", "I did ent understand that"

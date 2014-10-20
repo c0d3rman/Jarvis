@@ -7,13 +7,6 @@ $(document).ready ->
 	#	$("footer").css "top",  $(document.body).height()
 	
 	#---------------------------
-	#	Music Upload Animation
-	#---------------------------
-	$("#pulldown").click ->
-		$(this).toggleClass "fa-angle-double-down fa-angle-double-up"
-		if $(".dropzone").css("display") == "none" then $(".dropzone").slideDown() else $(".dropzone").slideUp()
-	
-	#---------------------------
 	#	Terminal Customization
 	#--------------------------- 
 	# add a method to submit the terminal
@@ -45,8 +38,3 @@ $(document).ready ->
 	$("#in").focus()
 	$("#in").blur ->
 		$(this).focus()
-		
-	Dropzone.options.dropzone =
-		init: ->
-			this.on("addedfile", (file) -> alert("Added file."))
-			console.log 'initialized'
