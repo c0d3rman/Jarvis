@@ -1,4 +1,4 @@
-class JarvisTime
+class @JarvisTime
 	constructor: (time) ->
 		if typeof time is "string"
 			throw "Invalid time #{time}" unless time.match /^\d{1,2}:\d{1,2}$/
@@ -8,13 +8,39 @@ class JarvisTime
 			throw "Out of range time #{time}" unless 0 <= time < 1440
 			@hours = Math.floor(time / 60)
 			@minutes = time % 60
+		else if time instanceof JarvisTime
+			@hours = time.hours
+			@minutes = time.minutes
 		else
 			throw "Unknown input type (#{typeof time}) for input #{time}"
 	
-	toString: () ->
+	toString: ->
 		"#{@hours}:" + (if @minutes < 10 then "0#{@minutes}" else "#{@minutes}")
-	valueOf: () ->
+	valueOf: ->
 		@hours * 60 + @minutes
+
+class @JarvisTimeRange
+	constructor: (@startTime, @endTime) ->
+		try
+			@startTime = new JarvisTime @startTime
+			@endTime = new JarvisTime @endTime
+		catch error
+			if typeof @startTime is "string" and @startTime.match /^\d{1,2}:\d{1,2}-\d{1,2}:\d{1,2}$/
+				[@startTime, @endTime] = (new JarvisTime t for t in @startTime.split "-")
+			else
+				throw "Invalid input to JarvisTimeRange constructor (#{@startTime}, #{@endTime})"
+		
+		unless @endTime - @startTime >= 0
+			throw "Start time (#{@startTime.toString()}) after end time (#{@endTime.toString()})"
+	
+	toString: ->
+		"#{@startTime.toString()}-#{@endTime.toString()}"
+	
+	length: ->
+		@endTime - @startTime
+	
+	contains: (time) ->
+		@startTime <= time < @endTime
 
 window.scheduleUtils =
 	minuteByMinute: (timeRange) ->
@@ -53,7 +79,7 @@ window.scheduleUtils =
 		schedule[day][time]
 
 	getCurrentTime: ->
-		now = new Date()
+		#now = new Date()
 		return [now.getDay(), new JarvisTime "#{now.getHours()}:#{now.getMinutes()}"]
 	
 	getCurrentClass: ->

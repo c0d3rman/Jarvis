@@ -43,7 +43,7 @@ $(document).ready ->
 					if confidence > 0.6
 						window.jarvis.understand data
 					else
-						window.jarvis._unknown()
+						window.jarvis.actions._unknown()
 				).fail((jqXHR, textStatus, errorThrown) ->
 					console.log 'textStatus: ' + textStatus
 					console.log 'errorThrown: ' + errorThrown
@@ -125,14 +125,41 @@ $(document).ready ->
 				window.open "http://www.wolframalpha.com/input/?i=#{encodeURIComponent expression}", "_self"
 			help:		(self) ->
 				self.talk "You can say:<br>" + (name for name, action of self.actions when name.charAt(0) isnt '_').join "<br>"
-			class_now:	(self, data) ->
+			class_now:	(self) ->
 				#className = window.scheduleUtils.getClassFromTime window.scheduleUtils.schedule, data.datetime[0].value.from
 				className = window.scheduleUtils.getCurrentClass()
 				if className?
 					self.talk "You have #{className} right now"
 				else
 					self.talk "You don't have a class right now"
-			
+			class_next:	(self, data) ->
+				[day, time] = window.scheduleUtils.getCurrentTime()
+				scheduleRawPart = window.scheduleUtils.scheduleRaw.schedule[day]
+				sortedKeys = Object.keys(scheduleRawPart).sort (a, b) ->
+					a = (new JarvisTimeRange a).startTime
+					b = (new JarvisTimeRange b).startTime
+					if a < b
+						-1
+					else if a > b
+						1
+					else
+						0
+				if time < (new JarvisTimeRange sortedKeys[0]).startTime
+					nextClass = window.scheduleUtils.scheduleRaw.names[scheduleRawPart[sortedKeys[0]]]
+				else
+					for key, i in sortedKeys
+						if (new JarvisTimeRange key).contains time
+							if scheduleRawPart[sortedKeys[i+1]] isnt 0
+								nextClass = window.scheduleUtils.scheduleRaw.names[scheduleRawPart[sortedKeys[i+1]]]
+							else
+								nextClass = window.scheduleUtils.scheduleRaw.names[scheduleRawPart[sortedKeys[i+2]]]
+							break
+				if nextClass?
+					self.talk "You have #{nextClass} next"
+				else if window.scheduleUtils.getCurrentClass()?
+					self.talk "This is your last class of the day"
+				else
+					self.talk "The day is over!"
 			#internal actions
 			_unknown:	(self) ->
 				self.talk "I didn't understand that.", "Jarvis", "I did ent understand that"
@@ -143,7 +170,7 @@ $(document).ready ->
 				todo.apply this
 			catch error
 				this.talk "Error. See console for details"
-				console.log "Jarvis error: " + error
+				console.log "Jarvis error: #{error.stack or error}"
 			
 	# export jarvis
 	(exports ? window).jarvis = jarvis
